@@ -1,0 +1,44 @@
+[
+ {
+  "name": "DGKJ Kongress",
+  "url": "https://dgkj-kongress.de/",
+  "organizer": "DGKJ",
+  "allowed_domains": [
+   "dgkj-kongress.de",
+   "dgkj.de"
+  ]
+ },
+ {
+  "name": "ESPID",
+  "url": "https://espidmeeting.org/",
+  "organizer": "European Society for Paediatric Infectious Diseases",
+  "allowed_domains": [
+   "espidmeeting.org"
+  ]
+ },
+ {
+  "name": "European Academy of Paediatrics",
+  "url": "https://www.eapaediatrics.eu",
+  "organizer": "European Academy of Paediatrics",
+  "allowed_domains": [
+   "eapaediatrics.eu"
+  ]
+ },
+ {
+  "name": "PAS",
+  "url": "https://www.pas-meeting.org/2027-meeting/",
+  "organizer": "Pediatric Academic Societies",
+  "allowed_domains": [
+   "pas-meeting.org"
+  ]
+ },
+ {
+  "name": "ESPGHAN",
+  "url": "https://www.espghan.org",
+  "organizer": "ESPGHAN",
+  "allowed_domains": [
+   "espghan.org",
+   "espghancongress.org"
+  ]
+ }
+]

@@ -1,0 +1,41 @@
+{
+  "updated": "2026-11-06",
+  "events": [
+    {
+      "id": "kongress-f-r-kinder-und-jugendmedizin-2026",
+      "name": "Kongress für Kinder- und Jugendmedizin 2026",
+      "organizer": "DGKJ",
+      "city": "Berlin",
+      "region": "Europe",
+      "start": "2026-11-18",
+      "end": "2026-11-21",
+      "timingNote": null,
+      "summary": "Annual congress of the German Society of Paediatrics and Adolescent Medicine.",
+      "topics": [
+        "Neonatology",
+        "Infection & Vaccines",
+        "Neurodevelopment",
+        "Respiratory & Allergy",
+        "Nutrition & Endocrine",
+        "Mental Health",
+        "Heart & Oncology"
+      ],
+      "url": "https://dgkj-kongress.de/"
+    },
+    {
+      "id": "espid-2027",
+      "name": "ESPID 2027",
+      "organizer": "European Society for Paediatric Infectious Diseases",
+      "city": "Berlin & online",
+      "region": "Europe",
+      "start": "2027-05-31",
+      "end": "2027-06-04",
+      "timingNote": null,
+      "summary": "Annual meeting on infectious diseases and vaccination in children.",
+      "topics": [
+        "Infection & Vaccines"
+      ],
+      "url": "https://espidmeeting.org/"
+    }
+  ]
+}

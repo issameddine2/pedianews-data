@@ -1,0 +1,145 @@
+[
+ {
+  "name": "DGKJ Terminkalender, page 1",
+  "url": "https://www.dgkj.de/termine/terminkalender",
+  "organizer": "DGKJ event calendar",
+  "allowed_domains": [
+   "dgkj.de",
+   "dgkj-kongress.de"
+  ]
+ },
+ {
+  "name": "DGKJ Terminkalender, page 2",
+  "url": "https://www.dgkj.de/termine/terminkalender?tx_solr%5Bpage%5D=2",
+  "organizer": "DGKJ event calendar",
+  "allowed_domains": [
+   "dgkj.de",
+   "dgkj-kongress.de"
+  ]
+ },
+ {
+  "name": "DGKJ Terminkalender, page 3",
+  "url": "https://www.dgkj.de/termine/terminkalender?tx_solr%5Bpage%5D=3",
+  "organizer": "DGKJ event calendar",
+  "allowed_domains": [
+   "dgkj.de",
+   "dgkj-kongress.de"
+  ]
+ },
+ {
+  "name": "DGKJ Terminkalender, page 4",
+  "url": "https://www.dgkj.de/termine/terminkalender?tx_solr%5Bpage%5D=4",
+  "organizer": "DGKJ event calendar",
+  "allowed_domains": [
+   "dgkj.de",
+   "dgkj-kongress.de"
+  ]
+ },
+ {
+  "name": "DGKJ Terminkalender, page 5",
+  "url": "https://www.dgkj.de/termine/terminkalender?tx_solr%5Bpage%5D=5",
+  "organizer": "DGKJ event calendar",
+  "allowed_domains": [
+   "dgkj.de",
+   "dgkj-kongress.de"
+  ]
+ },
+ {
+  "name": "DGKJ Terminkalender, page 6",
+  "url": "https://www.dgkj.de/termine/terminkalender?tx_solr%5Bpage%5D=6",
+  "organizer": "DGKJ event calendar",
+  "allowed_domains": [
+   "dgkj.de",
+   "dgkj-kongress.de"
+  ]
+ },
+ {
+  "name": "DGKJ Terminkalender, page 7",
+  "url": "https://www.dgkj.de/termine/terminkalender?tx_solr%5Bpage%5D=7",
+  "organizer": "DGKJ event calendar",
+  "allowed_domains": [
+   "dgkj.de",
+   "dgkj-kongress.de"
+  ]
+ },
+ {
+  "name": "DGKJ Terminkalender, page 8",
+  "url": "https://www.dgkj.de/termine/terminkalender?tx_solr%5Bpage%5D=8",
+  "organizer": "DGKJ event calendar",
+  "allowed_domains": [
+   "dgkj.de",
+   "dgkj-kongress.de"
+  ]
+ },
+ {
+  "name": "DGKJ Terminkalender, page 9",
+  "url": "https://www.dgkj.de/termine/terminkalender?tx_solr%5Bpage%5D=9",
+  "organizer": "DGKJ event calendar",
+  "allowed_domains": [
+   "dgkj.de",
+   "dgkj-kongress.de"
+  ]
+ },
+ {
+  "name": "DGKJ Terminkalender, page 10",
+  "url": "https://www.dgkj.de/termine/terminkalender?tx_solr%5Bpage%5D=10",
+  "organizer": "DGKJ event calendar",
+  "allowed_domains": [
+   "dgkj.de",
+   "dgkj-kongress.de"
+  ]
+ },
+ {
+  "name": "DGKJ Terminkalender, page 11",
+  "url": "https://www.dgkj.de/termine/terminkalender?tx_solr%5Bpage%5D=11",
+  "organizer": "DGKJ event calendar",
+  "allowed_domains": [
+   "dgkj.de",
+   "dgkj-kongress.de"
+  ]
+ },
+ {
+  "name": "DGKJ Terminkalender, page 12",
+  "url": "https://www.dgkj.de/termine/terminkalender?tx_solr%5Bpage%5D=12",
+  "organizer": "DGKJ event calendar",
+  "allowed_domains": [
+   "dgkj.de",
+   "dgkj-kongress.de"
+  ]
+ },
+ {
+  "name": "DGKJ Terminkalender, page 13",
+  "url": "https://www.dgkj.de/termine/terminkalender?tx_solr%5Bpage%5D=13",
+  "organizer": "DGKJ event calendar",
+  "allowed_domains": [
+   "dgkj.de",
+   "dgkj-kongress.de"
+  ]
+ },
+ {
+  "name": "DGKJ Terminkalender, page 14",
+  "url": "https://www.dgkj.de/termine/terminkalender?tx_solr%5Bpage%5D=14",
+  "organizer": "DGKJ event calendar",
+  "allowed_domains": [
+   "dgkj.de",
+   "dgkj-kongress.de"
+  ]
+ },
+ {
+  "name": "DGKJ Terminkalender, page 15",
+  "url": "https://www.dgkj.de/termine/terminkalender?tx_solr%5Bpage%5D=15",
+  "organizer": "DGKJ event calendar",
+  "allowed_domains": [
+   "dgkj.de",
+   "dgkj-kongress.de"
+  ]
+ },
+ {
+  "name": "DGKJ Repetitorien",
+  "url": "https://www.dgkj.de/termine/veranstaltungen-fortbildungen-der-dgkj/dgkj-repetitorien",
+  "organizer": "Deutsche Gesellschaft für Kinder- und Jugendmedizin (DGKJ)",
+  "allowed_domains": [
+   "dgkj.de"
+  ]
+ }
+]
