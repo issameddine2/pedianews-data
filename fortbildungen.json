@@ -10,8 +10,9 @@
       "start": "2026-11-06",
       "end": "2026-11-07",
       "note": null,
-      "summary": "The 4th MFT Symposium is a hybrid event held in Vienna on 6 and 7 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/4-mft-symposium-hybride-veranstaltung-in-wien"
+      "summary": "The 4th MFT Symposium, a hybrid event held in Vienna, 6 to 7 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/4-mft-symposium-hybride-veranstaltung-in-wien",
+      "state": null
     },
     {
       "id": "akic-akademie-f-r-kinderchirurgie",
@@ -22,8 +23,9 @@
       "start": "2026-11-06",
       "end": "2026-11-07",
       "note": null,
-      "summary": "AKIC Academy for Pediatric Surgery course is held in Dresden on 6 and 7 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/akic-akademie-fuer-kinderchirurgie"
+      "summary": "A pediatric surgery academy event in Dresden running from 6 to 7 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/akic-akademie-fuer-kinderchirurgie",
+      "state": "Sachsen"
     },
     {
       "id": "ganganalyse-in-der-p-diatrie-teil-2-wie-k-nnen-wir-die-entwicklung-beeinflussen",
@@ -34,8 +36,9 @@
       "start": "2026-11-06",
       "end": "2026-11-07",
       "note": null,
-      "summary": "Part 2 of a pediatric gait analysis course on influencing development takes place in Pelzerhaken on 6 and 7 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/ganganalyse-in-der-paediatrie-teil-2-wie-koennen-wir-die-entwicklung-beeinflussen-1"
+      "summary": "Part 2 of a pediatric gait analysis event in Pelzerhaken on how development can be influenced, 6 to 7 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/ganganalyse-in-der-paediatrie-teil-2-wie-koennen-wir-die-entwicklung-beeinflussen-1",
+      "state": "Schleswig-Holstein"
     },
     {
       "id": "jsm-winter-school-g-ttingen-2026",
@@ -46,20 +49,22 @@
       "start": "2026-11-06",
       "end": "2026-11-08",
       "note": null,
-      "summary": "JSM Winter School 2026 is held in Göttingen from 6 to 8 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/jsm-winter-school-goettingen-2026"
+      "summary": "The JSM Winter School 2026 takes place in Göttingen from 6 to 8 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/jsm-winter-school-goettingen-2026",
+      "state": "Niedersachsen"
     },
     {
       "id": "mipeta-2026",
       "title": "MIPETA 2026",
       "organizer": "DGKJ event calendar",
       "city": "Chemnitz",
-      "format": "Congress",
+      "format": "Course",
       "start": "2026-11-06",
       "end": "2026-11-07",
       "note": null,
-      "summary": "MIPETA 2026 takes place in Chemnitz on 6 and 7 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/mipeta-2026"
+      "summary": "MIPETA 2026 takes place in Chemnitz from 6 to 7 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/mipeta-2026",
+      "state": "Sachsen"
     },
     {
       "id": "4-p-diatrietag-bodensee",
@@ -71,7 +76,8 @@
       "end": "2026-11-07",
       "note": null,
       "summary": "The 4th Pediatric Day Bodensee takes place in Konstanz on 7 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/4-paediatrietag-bodensee"
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/4-paediatrietag-bodensee",
+      "state": "Baden-Württemberg"
     },
     {
       "id": "berliner-forum-differenzialdiagnostik-seltener-erkrankungen-im-praxisalltag",
@@ -82,8 +88,9 @@
       "start": "2026-11-07",
       "end": "2026-11-07",
       "note": null,
-      "summary": "Berliner Forum on differential diagnosis of rare diseases in everyday practice takes place in Berlin on 7 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/berliner-forum-differenzialdiagnostik-seltener-erkrankungen-im-praxisalltag"
+      "summary": "A Berlin forum on differential diagnosis of rare diseases in everyday practice, held on 7 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/berliner-forum-differenzialdiagnostik-seltener-erkrankungen-im-praxisalltag",
+      "state": "Berlin"
     },
     {
       "id": "p-diatrische-endokrinologie-hormone-von-der-u2-bis-zur-j1",
@@ -94,8 +101,9 @@
       "start": "2026-11-07",
       "end": "2026-11-07",
       "note": null,
-      "summary": "Pediatric endocrinology course on hormones from the U2 to the J1 check-up is held in Dresden on 7 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/paediatrische-endokrinologie-hormone-von-der-u2-bis-zur-j1"
+      "summary": "A pediatric endocrinology course in Dresden on hormones from the U2 to the J1 examination, held on 7 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/paediatrische-endokrinologie-hormone-von-der-u2-bis-zur-j1",
+      "state": "Sachsen"
     },
     {
       "id": "newborn-life-support-provider-kurs",
@@ -106,8 +114,9 @@
       "start": "2026-11-09",
       "end": "2026-11-09",
       "note": null,
-      "summary": "One-day Newborn Life Support provider course in Leipzig covering resuscitation of newborns.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/newborn-life-support-provider-kurs"
+      "summary": "A Newborn Life Support provider course held in Leipzig on 9 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/newborn-life-support-provider-kurs",
+      "state": "Sachsen"
     },
     {
       "id": "25-heiner-brunner-seminar-in-leipzig",
@@ -118,8 +127,9 @@
       "start": "2026-11-11",
       "end": "2026-11-13",
       "note": null,
-      "summary": "Three-day 25th Heiner-Brunner seminar held in Leipzig.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/25-heiner-brunner-seminar-in-leipzig"
+      "summary": "The 25th Heiner-Brunner-Seminar, a three-day event in Leipzig from 11 to 13 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/25-heiner-brunner-seminar-in-leipzig",
+      "state": "Sachsen"
     },
     {
       "id": "allergenimmuntherapie-im-fokus-qualit-t-quantit-t-und-klinische-schnittstellen",
@@ -130,8 +140,9 @@
       "start": "2026-11-11",
       "end": "2026-11-11",
       "note": null,
-      "summary": "Online event on allergen immunotherapy addressing quality, quantity and clinical interfaces.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/allergenimmuntherapie-im-fokus-qualitaet-quantitaet-und-klinische-schnittstellen"
+      "summary": "An online event on allergen immunotherapy focusing on quality, quantity and clinical interfaces, on 11 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/allergenimmuntherapie-im-fokus-qualitaet-quantitaet-und-klinische-schnittstellen",
+      "state": null
     },
     {
       "id": "laktationsmedizin-stillberatung-und-ern-hrung-mit-menschlicher-milch",
@@ -142,8 +153,9 @@
       "start": "2026-11-11",
       "end": "2026-11-11",
       "note": null,
-      "summary": "One-day course in Leipzig on lactation medicine, breastfeeding counselling and nutrition with human milk.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/laktationsmedizin-stillberatung-und-ernaehrung-mit-menschlicher-milch"
+      "summary": "A course on lactation medicine, breastfeeding counselling and nutrition with human milk in Leipzig.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/laktationsmedizin-stillberatung-und-ernaehrung-mit-menschlicher-milch",
+      "state": "Sachsen"
     },
     {
       "id": "7-symposium-der-frauenmilchbank-initiative-e-v-humane-milch-sicher-verf-gbar-hybrid",
@@ -154,8 +166,9 @@
       "start": "2026-11-12",
       "end": "2026-11-13",
       "note": null,
-      "summary": "Hybrid two-day symposium on securing the availability of safe human milk, held in Leipzig with online participation.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/7-symposium-der-frauenmilchbank-initiative-ev-humane-milch-sicher-verfuegbar-hybrid"
+      "summary": "The 7th Symposium of the Frauenmilchbank-Initiative on safely available human milk, held as a hybrid event in Leipzig.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/7-symposium-der-frauenmilchbank-initiative-ev-humane-milch-sicher-verfuegbar-hybrid",
+      "state": "Sachsen"
     },
     {
       "id": "hypophosphatasie-untersch-tzte-diagnose-im-praxisalltag",
@@ -166,8 +179,9 @@
       "start": "2026-11-12",
       "end": "2026-11-12",
       "note": null,
-      "summary": "Online event on hypophosphatasia, an underrecognised diagnosis in everyday clinical practice.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/hypophosphatasie-unterschaetzte-diagnose-im-praxisalltag"
+      "summary": "An online event on hypophosphatasia as an underrecognised diagnosis in everyday practice, on 12 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/hypophosphatasie-unterschaetzte-diagnose-im-praxisalltag",
+      "state": null
     },
     {
       "id": "14-interdisziplin-re-tagung-ber-sprachentwicklungsst-rungen-ises-14",
@@ -178,8 +192,9 @@
       "start": "2026-11-13",
       "end": "2026-11-14",
       "note": null,
-      "summary": "Interdisciplinary conference on speech development disorders, held in Gießen on 13–14 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/14-interdisziplinaere-tagung-ueber-sprachentwicklungsstoerungen-ises-14"
+      "summary": "Interdisciplinary conference on speech and language development disorders in children, held in Gießen.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/14-interdisziplinaere-tagung-ueber-sprachentwicklungsstoerungen-ises-14",
+      "state": "Hessen"
     },
     {
       "id": "2026-pals-provider-kurse-aha-skillqube-gmbh",
@@ -190,8 +205,9 @@
       "start": "2026-11-13",
       "end": "2026-11-14",
       "note": null,
-      "summary": "AHA Pediatric Advanced Life Support provider course run by SKILLQUBE GmbH in Rauenberg on 13–14 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/pals-provider-kurs-aha-skillqube-gmbh-3"
+      "summary": "AHA Pediatric Advanced Life Support provider course run by SKILLQUBE GmbH in Rauenberg.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/pals-provider-kurs-aha-skillqube-gmbh-3",
+      "state": null
     },
     {
       "id": "jahrestagung-der-ag-p-diatrische-allergologie-und-pneumologie-s-d-agpas",
@@ -202,8 +218,9 @@
       "start": "2026-11-13",
       "end": "2026-11-14",
       "note": null,
-      "summary": "Annual meeting of the AG pediatric allergology and pneumology South (AGPAS) in Vienna over two days.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/jahrestagung-der-ag-paediatrische-allergologie-und-pneumologie-sued-agpas"
+      "summary": "The annual meeting of the AG pädiatrische Allergologie und Pneumologie Süd (AGPAS) in Vienna from 13 to 14 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/jahrestagung-der-ag-paediatrische-allergologie-und-pneumologie-sued-agpas",
+      "state": null
     },
     {
       "id": "kinderonkologisches-symposium-geschwisterhilfe-360-grad-geschwisterkinder-in-der-onkologie-begleiten",
@@ -214,8 +231,9 @@
       "start": "2026-11-13",
       "end": "2026-11-13",
       "note": null,
-      "summary": "Online pediatric oncology symposium on supporting siblings of children with cancer, taking place on 13 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/kinderonkologisches-symposium-geschwisterhilf-360-grad-geschwisterkinder-in-der-onkologie-begleiten"
+      "summary": "Online pediatric oncology symposium on supporting siblings of children with cancer.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/kinderonkologisches-symposium-geschwisterhilf-360-grad-geschwisterkinder-in-der-onkologie-begleiten",
+      "state": null
     },
     {
       "id": "kindersportmedizin",
@@ -226,8 +244,9 @@
       "start": "2026-11-13",
       "end": "2026-11-14",
       "note": null,
-      "summary": "Two-day course in Bonn on sports medicine for children and adolescents.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/kindersportmedizin"
+      "summary": "A two-day course on paediatric sports medicine held in Bonn from 13 to 14 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/kindersportmedizin",
+      "state": "Nordrhein"
     },
     {
       "id": "2026-pals-refresher-kurse-aha-skillqube-gmbh",
@@ -238,8 +257,9 @@
       "start": "2026-11-14",
       "end": "2026-11-14",
       "note": null,
-      "summary": "AHA Pediatric Advanced Life Support refresher course run by SKILLQUBE GmbH in Rauenberg on 14 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/pals-refresher-kurs-aha-skillqube-gmbh-3"
+      "summary": "AHA Pediatric Advanced Life Support refresher course run by SKILLQUBE GmbH in Rauenberg.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/pals-refresher-kurs-aha-skillqube-gmbh-3",
+      "state": null
     },
     {
       "id": "frakturensonographie-im-wachstumsalter-strukturierte-fortbildung-zum-erwerb-der-fachlichen-bef-higung",
@@ -250,20 +270,22 @@
       "start": "2026-11-14",
       "end": "2026-11-14",
       "note": null,
-      "summary": "Structured training in fracture sonography in growing children, aimed at acquiring professional competence, held in Bielefeld on 14 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/frakturensonographie-im-wachstumsalter-strukturierte-fortbildung-zum-erwerb-der-fachlichen-befaehigung"
+      "summary": "Structured course for acquiring qualification in fracture sonography in growing children, held in Bielefeld.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/frakturensonographie-im-wachstumsalter-strukturierte-fortbildung-zum-erwerb-der-fachlichen-befaehigung",
+      "state": "Westfalen-Lippe"
     },
     {
       "id": "prim-re-und-sekund-re-immundefekte-im-fokus-leitlinien-praxis-und-therapie",
       "title": "Primäre und Sekundäre Immundefekte im Fokus – Leitlinien, Praxis und Therapie",
       "organizer": "DGKJ event calendar",
       "city": "Leipzig",
-      "format": "Congress",
+      "format": "Course",
       "start": "2026-11-14",
       "end": "2026-11-14",
       "note": null,
-      "summary": "Event on primary and secondary immunodeficiencies covering guidelines, practice and therapy, held in Leipzig on 14 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/primaere-und-sekundaere-immundefekte-im-fokus-leitlinien-praxis-und-therapie"
+      "summary": "Event on primary and secondary immunodeficiencies covering guidelines, practice and therapy, held in Leipzig.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/primaere-und-sekundaere-immundefekte-im-fokus-leitlinien-praxis-und-therapie",
+      "state": "Sachsen"
     },
     {
       "id": "3-tage-fortbildungskurs-p-diatrische-intensivmedizin-f-r-gesundheits-und-kinderkrankenpflege",
@@ -274,8 +296,9 @@
       "start": "2026-11-15",
       "end": "2026-11-18",
       "note": null,
-      "summary": "Three-day further training course on paediatric intensive care for health and paediatric nursing staff, held in Schwäbisch Gmünd.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/3-tage-fortbildungskurs-paediatrische-intensivmedizin-fuer-gesundheits-und-kinderkrankenpflege"
+      "summary": "Three-day continuing education course on paediatric intensive care for health and paediatric nurses, held in Schwäbisch Gmünd.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/3-tage-fortbildungskurs-paediatrische-intensivmedizin-fuer-gesundheits-und-kinderkrankenpflege",
+      "state": null
     },
     {
       "id": "6-tage-fortbildungskurs-p-diatrische-intensivmedizin-f-r-fach-und-ober-rztinnen-und-rzte",
@@ -286,8 +309,9 @@
       "start": "2026-11-15",
       "end": "2026-11-20",
       "note": null,
-      "summary": "A six-day continuing education course in paediatric intensive care for specialists and senior physicians.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/6-tage-fortbildungskurspaediatrische-intensivmedizin-fuer-fach-und-oberaerzte"
+      "summary": "A six-day continuing-education course on paediatric intensive care for specialists and senior physicians.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/6-tage-fortbildungskurspaediatrische-intensivmedizin-fuer-fach-und-oberaerzte",
+      "state": null
     },
     {
       "id": "nrp-provider-kurs-aha-skillqube-gmbh",
@@ -298,8 +322,9 @@
       "start": "2026-11-15",
       "end": "2026-11-15",
       "note": null,
-      "summary": "AHA Neonatal Resuscitation Program provider course run by SKILLQUBE GmbH in Rauenberg on 15 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/nrp-provider-kursaha-skillqube-gmbh-2"
+      "summary": "AHA Neonatal Resuscitation Program provider course run by SKILLQUBE GmbH in Rauenberg.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/nrp-provider-kursaha-skillqube-gmbh-2",
+      "state": null
     },
     {
       "id": "ebp-eap-exam",
@@ -310,8 +335,9 @@
       "start": "2026-11-17",
       "end": "2026-11-17",
       "note": null,
-      "summary": "An online EBP-EAP examination taking place on 17 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/ebp-eap-exam"
+      "summary": "An online EBP-EAP examination on 17 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/ebp-eap-exam",
+      "state": null
     },
     {
       "id": "dgkj-jahrestagung-kongress-f-r-kinder-und-jugendmedizin-2026",
@@ -322,8 +348,9 @@
       "start": "2026-11-18",
       "end": "2026-11-21",
       "note": null,
-      "summary": "The annual DGKJ congress for paediatrics and adolescent medicine, held in Berlin from 18 to 21 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/dgkj-jahrestagung-kongress-fuer-kinder-und-jugendmedizin-2026"
+      "summary": "The DGKJ annual congress for paediatrics and adolescent medicine, held in Berlin from 18 to 21 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/dgkj-jahrestagung-kongress-fuer-kinder-und-jugendmedizin-2026",
+      "state": "Berlin"
     },
     {
       "id": "kongress-f-r-kinder-und-jugendmedizin-2026",
@@ -335,7 +362,8 @@
       "end": "2026-11-21",
       "note": null,
       "summary": "The annual congress of the DGKJ, held at the Estrel in Berlin.",
-      "url": "https://dgkj-kongress.de/"
+      "url": "https://dgkj-kongress.de/",
+      "state": "Berlin"
     },
     {
       "id": "11th-annual-conference-of-the-international-neonatology-association",
@@ -346,8 +374,9 @@
       "start": "2026-11-19",
       "end": "2026-11-22",
       "note": null,
-      "summary": "The 11th annual conference of the International Neonatology Association in Amsterdam, 19 to 22 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/11th-annual-conference-of-the-international-neonatology-association"
+      "summary": "The 11th annual conference of the International Neonatology Association, held in Amsterdam from 19 to 22 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/11th-annual-conference-of-the-international-neonatology-association",
+      "state": null
     },
     {
       "id": "journal-club-adipositas-folge-22",
@@ -358,8 +387,9 @@
       "start": "2026-11-19",
       "end": "2026-11-19",
       "note": null,
-      "summary": "Episode 22 of the online Journal Club on obesity, taking place on 19 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/journal-club-adipositas-folge-22"
+      "summary": "Episode 22 of the online Journal Club Adipositas, taking place on 19 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/journal-club-adipositas-folge-22",
+      "state": null
     },
     {
       "id": "traumatage-2026-fr-heste-psychische-traumatisierung-eine-verkannte-wirklichkeit",
@@ -370,8 +400,9 @@
       "start": "2026-11-19",
       "end": "2026-11-19",
       "note": null,
-      "summary": "TraumaTage 2026 in Hamburg addresses early psychological trauma as an overlooked reality.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/traumatage-2026-frueheste-psychische-traumatisierung-eine-verkannte-wirklichkeit"
+      "summary": "A one-day event on earliest psychological traumatisation as an overlooked reality, held in Hamburg on 19 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/traumatage-2026-frueheste-psychische-traumatisierung-eine-verkannte-wirklichkeit",
+      "state": "Hamburg"
     },
     {
       "id": "10-jenaer-forum-p-diatrie",
@@ -382,8 +413,9 @@
       "start": "2026-11-21",
       "end": "2026-11-21",
       "note": null,
-      "summary": "The 10th Jena Forum for Paediatrics, a one-day event in Jena on 21 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/10-jenaer-forum-paediatrie"
+      "summary": "The 10th Jena Forum on Paediatrics, a one-day event in Jena on 21 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/10-jenaer-forum-paediatrie",
+      "state": "Thüringen"
     },
     {
       "id": "13-dortmunder-p-diatrietag",
@@ -394,8 +426,9 @@
       "start": "2026-11-21",
       "end": "2026-11-21",
       "note": null,
-      "summary": "The 13th Dortmund Pediatric Day takes place in Dortmund on 21 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/13-dortmunder-paediatrietag"
+      "summary": "The 13th Dortmund Paediatrics Day, a one-day pediatric event in Dortmund on 21 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/13-dortmunder-paediatrietag",
+      "state": "Westfalen-Lippe"
     },
     {
       "id": "neop-dxpert-multidisziplin-res-interprofessionelles-symposium-der-peri-und-neonatologie-sowie-p-diatrischen-intensivmedizin",
@@ -406,8 +439,9 @@
       "start": "2026-11-21",
       "end": "2026-11-21",
       "note": null,
-      "summary": "A multidisciplinary, interprofessional symposium on perinatal and neonatal medicine and paediatric intensive care in Homburg/Saar.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/neopaedxpert-multidisziplinaeres-interprofessionelles-symposium-der-peri-und-neonatologie-sowie-paediatrischen-intensivmedizin"
+      "summary": "A multidisciplinary, interprofessional symposium on perinatology, neonatology and paediatric intensive care on 21 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/neopaedxpert-multidisziplinaeres-interprofessionelles-symposium-der-peri-und-neonatologie-sowie-paediatrischen-intensivmedizin",
+      "state": "Saarland"
     },
     {
       "id": "p-diatrische-gastroenterologie-vom-bauchschmerz-zur-diagnose-consilium-collegiale",
@@ -418,8 +452,9 @@
       "start": "2026-11-21",
       "end": "2026-11-21",
       "note": null,
-      "summary": "A pediatric gastroenterology course on diagnosing abdominal pain, held in Fellbach near Stuttgart on 21 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/paediatrische-gastroenterologie-vom-bauchschmerz-zur-diagnose-consilium-collegiale-1"
+      "summary": "A consilium collegiale on paediatric gastroenterology focusing on diagnosing abdominal pain in children, held in Fellbach near Stuttgart.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/paediatrische-gastroenterologie-vom-bauchschmerz-zur-diagnose-consilium-collegiale-1",
+      "state": "Baden-Württemberg"
     },
     {
       "id": "diabetes-adipositas-und-inkretintherapie-realistische-lebensstiltherapie-im-gkv-system",
@@ -430,8 +465,9 @@
       "start": "2026-11-25",
       "end": "2026-11-25",
       "note": null,
-      "summary": "An online event on diabetes, obesity and incretin therapy with realistic lifestyle therapy within the German statutory health insurance system, on 25 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/diabetes-adipositas-und-inkretintherapie-realistische-lebensstiltherapie-im-gkv-system"
+      "summary": "An online event on realistic lifestyle therapy for diabetes and obesity alongside incretin therapy within the German statutory health insurance system.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/diabetes-adipositas-und-inkretintherapie-realistische-lebensstiltherapie-im-gkv-system",
+      "state": null
     },
     {
       "id": "funktionelle-bauchschmerzen-im-klinikalltag-multiprofessionelle-ans-tze-und-handlungsempfehlungen",
@@ -442,8 +478,9 @@
       "start": "2026-11-25",
       "end": "2026-11-25",
       "note": null,
-      "summary": "An online event on functional abdominal pain in clinical practice, covering multiprofessional approaches and recommendations on 25 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/funktionelle-bauchschmerzen-im-klinikalltag-multiprofessionelle-ansaetze-und-handlungsempfehlungen"
+      "summary": "An online event on multiprofessional approaches and recommendations for functional abdominal pain in everyday clinical practice.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/funktionelle-bauchschmerzen-im-klinikalltag-multiprofessionelle-ansaetze-und-handlungsempfehlungen",
+      "state": null
     },
     {
       "id": "10th-international-t-bingen-symposium-on-pediatric-solid-tumors-siopel-autumn-meeting-2026",
@@ -454,8 +491,9 @@
       "start": "2026-11-26",
       "end": "2026-11-28",
       "note": null,
-      "summary": "The 10th International Tübingen Symposium on Pediatric Solid Tumors and the SIOPEL Autumn Meeting 2026 take place in Tübingen from 26 to 28 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/10th-international-tuebingen-symposium-on-pediatric-solid-tumors-siopel-autumn-meeting-2026"
+      "summary": "The 10th International Tübingen Symposium on Pediatric Solid Tumors combined with the SIOPEL Autumn Meeting, held in Tübingen from 26 to 28 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/10th-international-tuebingen-symposium-on-pediatric-solid-tumors-siopel-autumn-meeting-2026",
+      "state": "Baden-Württemberg"
     },
     {
       "id": "29-deutsche-mukoviszidose-tagung",
@@ -466,8 +504,9 @@
       "start": "2026-11-26",
       "end": "2026-11-28",
       "note": null,
-      "summary": "The 29th German Cystic Fibrosis Conference takes place in Bielefeld from 26 to 28 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/29-deutsche-mukoviszidose-tagung"
+      "summary": "The 29th German Cystic Fibrosis Conference, held in Bielefeld from 26 to 28 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/29-deutsche-mukoviszidose-tagung",
+      "state": "Westfalen-Lippe"
     },
     {
       "id": "cerebralparese-teil-2",
@@ -478,8 +517,9 @@
       "start": "2026-11-26",
       "end": "2026-11-26",
       "note": null,
-      "summary": "An online event on cerebral palsy, part 2, taking place on 26 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/cerebralparese-teil-2"
+      "summary": "An online event on cerebral palsy, part 2, held on 26 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/cerebralparese-teil-2",
+      "state": null
     },
     {
       "id": "eeg-seminar-der-universit-ten-m-nchen-erlangen-und-jena",
@@ -490,20 +530,22 @@
       "start": "2026-11-26",
       "end": "2026-11-28",
       "note": null,
-      "summary": "A EEG seminar jointly organised by the universities of Munich, Erlangen and Jena, held in Munich from 26 to 28 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/eeg-seminar-der-universitaeten-muenchen-erlangen-und-jena"
+      "summary": "A three-day EEG seminar run by the universities of Munich, Erlangen and Jena.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/eeg-seminar-der-universitaeten-muenchen-erlangen-und-jena",
+      "state": "Bayern"
     },
     {
       "id": "empower-course-advanced-paediatric-emergency-medicine-course",
       "title": "Empower Course (Advanced paediatric emergency medicine course)",
       "organizer": "DGKJ event calendar",
-      "city": "Trieste (Italien)",
+      "city": "Trieste",
       "format": "Course",
       "start": "2026-11-26",
       "end": "2026-11-27",
       "note": null,
       "summary": "An advanced paediatric emergency medicine course held in Trieste, Italy, from 26 to 27 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/empower-course"
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/empower-course",
+      "state": null
     },
     {
       "id": "ja-ped-2026-jahrestagung-der-deutschen-gesellschaft-f-r-p-diatrische-und-adoleszente-endokrinologie-und-diabetologie",
@@ -514,20 +556,22 @@
       "start": "2026-11-26",
       "end": "2026-11-28",
       "note": null,
-      "summary": "The JA-PED 2026 annual meeting of the German Society for Paediatric and Adolescent Endocrinology and Diabetology takes place in Berlin from 26 to 28 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/ja-ped-2026-jahrestagung-der-deutschen-gesellschaft-fuer-paediatrische-und-adoleszente-endokrinologie-und-diabetologie"
+      "summary": "The annual meeting of the German Society for Paediatric and Adolescent Endocrinology and Diabetology, held in Berlin from 26 to 28 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/ja-ped-2026-jahrestagung-der-deutschen-gesellschaft-fuer-paediatrische-und-adoleszente-endokrinologie-und-diabetologie",
+      "state": "Berlin"
     },
     {
       "id": "munich-child-congress-2026-kindsein-in-digitalen-lebenswelten-chancen-risiken-und-empfehlungen",
-      "title": "MUNICH CHILD CONGRESS 2026 „Kindsein in digitalen Lebenswelten – Chancen, Risiken und Empfehlungen“",
+      "title": "MUNICH CHILD CONGRESS 2026 „Kindsein in digitalen Lebenswelten – Chancen, Risiken und Empfehlungen\"",
       "organizer": "DGKJ event calendar",
       "city": "München",
       "format": "Congress",
       "start": "2026-11-27",
       "end": "2026-11-28",
       "note": null,
-      "summary": "A congress on childhood in digital life-worlds, covering opportunities, risks and recommendations, held in Munich on 27 and 28 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/munich-child-congress-2026-kindsein-in-digitalen-lebenswelten-chancen-risiken-und-empfehlungen"
+      "summary": "A two-day congress on children growing up in digital worlds, covering opportunities, risks and recommendations.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/munich-child-congress-2026-kindsein-in-digitalen-lebenswelten-chancen-risiken-und-empfehlungen",
+      "state": "Bayern"
     },
     {
       "id": "vom-plattfu-zum-schiefhals-ein-tag-in-der-kinderorthop-dischen-sprechstunde",
@@ -538,8 +582,9 @@
       "start": "2026-11-27",
       "end": "2026-11-27",
       "note": null,
-      "summary": "An online event offering a day-in-the-life look at a paediatric orthopaedic outpatient clinic, from flat feet to torticollis, on 27 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/vom-plattfuss-zum-schiefhals-ein-tag-in-der-kinderorthopaedischen-sprechstunde"
+      "summary": "An online session giving a day's insight into a paediatric orthopaedic outpatient clinic, from flat feet to torticollis.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/vom-plattfuss-zum-schiefhals-ein-tag-in-der-kinderorthopaedischen-sprechstunde",
+      "state": null
     },
     {
       "id": "13-leipziger-p-diatrietag",
@@ -550,8 +595,9 @@
       "start": "2026-11-28",
       "end": "2026-11-28",
       "note": null,
-      "summary": "The 13th Leipzig Paediatrics Day, a pediatric continuing-education event held in Leipzig on 28 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/13-leipziger-paediatrietag"
+      "summary": "Pediatric congress held in Leipzig on 28 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/13-leipziger-paediatrietag",
+      "state": "Sachsen"
     },
     {
       "id": "6-gie-ener-p-diatrietag",
@@ -562,8 +608,9 @@
       "start": "2026-11-28",
       "end": "2026-11-28",
       "note": null,
-      "summary": "The sixth Gießen paediatrics day, a one-day paediatric event held in Gießen on 28 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/6-giessener-paediatrietag"
+      "summary": "The 6th Gießen Paediatric Day, a one-day paediatric event held on 28 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/6-giessener-paediatrietag",
+      "state": "Hessen"
     },
     {
       "id": "neugeborenen-notarztkurs-zertifizierungskurs-nach-gnpi-in-bonn",
@@ -574,8 +621,9 @@
       "start": "2026-11-28",
       "end": "2026-11-28",
       "note": null,
-      "summary": "A neonatal emergency physician certification course following GNPI standards, held in Bonn on 28 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/neugeborenen-notarztkurs-zertifizierungskurs-nach-gnpi-in-bonn"
+      "summary": "A GNPI-certified neonatal emergency doctor course held in Bonn on 28 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/neugeborenen-notarztkurs-zertifizierungskurs-nach-gnpi-in-bonn",
+      "state": "Nordrhein"
     },
     {
       "id": "sekund-re-immundefekte-ein-zunehmendes-problem",
@@ -586,8 +634,9 @@
       "start": "2026-11-28",
       "end": "2026-11-28",
       "note": null,
-      "summary": "An event on secondary immunodeficiencies as a growing problem, held in Münster on 28 November 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/sekundaere-immundefekte-ein-zunehmendes-problem"
+      "summary": "A course on secondary immunodeficiencies, an increasing problem, held on 28 November 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/sekundaere-immundefekte-ein-zunehmendes-problem",
+      "state": "Westfalen-Lippe"
     },
     {
       "id": "2-grund-und-aufbaukurs-sonographie-der-s-uglingsh-fte-nach-graf-am-klinikum-herford",
@@ -598,8 +647,9 @@
       "start": "2026-12-02",
       "end": "2026-12-05",
       "note": null,
-      "summary": "A basic and advanced course on hip sonography in infants according to Graf, listed with the venue Bayreuth, 2 to 5 December 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/2-grund-und-aufbaukurs-sonographie-der-saeuglingshuefte-nach-graf-am-klinikum-herford"
+      "summary": "Basic and advanced course on Graf ultrasound of the infant hip, listed with location Bayreuth, 2–5 December 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/2-grund-und-aufbaukurs-sonographie-der-saeuglingshuefte-nach-graf-am-klinikum-herford",
+      "state": "Bayern"
     },
     {
       "id": "ait-in-der-praxis-evidenzbasierte-entscheidungen-von-diagnostik-bis-therapie",
@@ -610,8 +660,9 @@
       "start": "2026-12-02",
       "end": "2026-12-02",
       "note": null,
-      "summary": "An online event on evidence-based decision-making from diagnostics to therapy, held on 2 December 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/ait-in-der-praxis-evidenzbasierte-entscheidungen-von-diagnostik-bis-therapie"
+      "summary": "Online event on evidence-based decisions in pediatric practice, from diagnostics to therapy, on 2 December 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/ait-in-der-praxis-evidenzbasierte-entscheidungen-von-diagnostik-bis-therapie",
+      "state": null
     },
     {
       "id": "divi26-26-kongress-der-deutschen-interdisziplin-ren-vereinigung-f-r-intensiv-und-notfallmedizin",
@@ -622,8 +673,9 @@
       "start": "2026-12-02",
       "end": "2026-12-04",
       "note": null,
-      "summary": "The 26th congress of the German Interdisciplinary Society for Intensive Care and Emergency Medicine (DIVI), held in Hamburg.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/divi26-26-kongress-der-deutschen-interdisziplinaeren-vereinigung-fuer-intensiv-und-notfallmedizin"
+      "summary": "26th congress of the German Interdisciplinary Society for Intensive Care and Emergency Medicine, held in Hamburg.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/divi26-26-kongress-der-deutschen-interdisziplinaeren-vereinigung-fuer-intensiv-und-notfallmedizin",
+      "state": "Hamburg"
     },
     {
       "id": "1-abschlusskurs-sonographie-der-s-uglingsh-fte-nach-graf",
@@ -634,20 +686,22 @@
       "start": "2026-12-04",
       "end": "2026-12-05",
       "note": null,
-      "summary": "A final course on hip sonography in infants according to Graf, held in Bayreuth on 4 and 5 December 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/1-abschlusskurs-sonographie-der-saeuglingshuefte-nach-graf"
+      "summary": "Final course on Graf ultrasound of the infant hip, held in Bayreuth on 4–5 December 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/1-abschlusskurs-sonographie-der-saeuglingshuefte-nach-graf",
+      "state": "Bayern"
     },
     {
       "id": "forum-rhein-neckar-fortbildung-p-diatrie-2026",
       "title": "Forum Rhein-Neckar – Fortbildung Pädiatrie 2026",
       "organizer": "DGKJ event calendar",
       "city": "Mannheim",
-      "format": "Congress",
+      "format": "Course",
       "start": "2026-12-05",
       "end": "2026-12-05",
       "note": null,
-      "summary": "A paediatric continuing-education forum for the Rhine-Neckar region, held in Mannheim on 5 December 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/forum-rhein-neckar-fortbildung-paediatrie-2026"
+      "summary": "Pediatric continuing education event in Mannheim on 5 December 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/forum-rhein-neckar-fortbildung-paediatrie-2026",
+      "state": "Baden-Württemberg"
     },
     {
       "id": "solide-tumore-im-kindesalter-live-online-via-zoom",
@@ -658,8 +712,9 @@
       "start": "2026-12-05",
       "end": "2026-12-05",
       "note": null,
-      "summary": "A live online Zoom event on solid tumours in childhood, held on 5 December 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/solide-tumore-im-kindesalter-live-online-via-zoom"
+      "summary": "Live online Zoom course on solid tumours in childhood on 5 December 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/solide-tumore-im-kindesalter-live-online-via-zoom",
+      "state": null
     },
     {
       "id": "dyspnoe-begleiten-und-lindern-in-der-finalphase",
@@ -670,8 +725,9 @@
       "start": "2026-12-09",
       "end": "2026-12-09",
       "note": null,
-      "summary": "An online event on accompanying and relieving dyspnoea in the final phase of life, held on 9 December 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/dyspnoe-begleiten-und-lindern-in-der-finalphase"
+      "summary": "Online event on accompanying and relieving dyspnoea in the final phase of life, on 9 December 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/dyspnoe-begleiten-und-lindern-in-der-finalphase",
+      "state": null
     },
     {
       "id": "journal-club-adipositas-folge-23",
@@ -682,8 +738,9 @@
       "start": "2026-12-10",
       "end": "2026-12-10",
       "note": null,
-      "summary": "Episode 23 of the online Journal Club on obesity, scheduled for 10 December 2026.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/journal-club-adipositas-folge-23"
+      "summary": "Episode 23 of the online Journal Club on obesity, held on 10 December 2026.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/journal-club-adipositas-folge-23",
+      "state": null
     },
     {
       "id": "p-diatrischer-divi-niv-kurs",
@@ -694,20 +751,22 @@
       "start": "2026-12-12",
       "end": "2026-12-12",
       "note": null,
-      "summary": "One-day course in Mainz on pediatric non-invasive ventilation (NIV) following DIVI standards.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/paediatrischer-divi-niv-kurs"
+      "summary": "Paediatric DIVI course on non-invasive ventilation (NIV) held in Mainz.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/paediatrischer-divi-niv-kurs",
+      "state": "Rheinland-Pfalz"
     },
     {
       "id": "2026-pals-instruktoren-kurse-aha-skillqube-gmbh",
       "title": "2026: PALS Instruktoren Kurse (AHA) SKILLQUBE GmbH",
-      "organizer": "SKILLQUBE GmbH",
+      "organizer": "DGKJ event calendar",
       "city": "Rauenberg",
       "format": "Course",
       "start": "2026-12-16",
       "end": "2026-12-17",
       "note": null,
       "summary": "Two-day PALS instructor course of the American Heart Association (AHA) offered by SKILLQUBE GmbH in Rauenberg.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/pals-instruktoren-kurs-aha-skillqube-gmbh-5"
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/pals-instruktoren-kurs-aha-skillqube-gmbh-5",
+      "state": null
     },
     {
       "id": "h-rst-rungen-und-weitere-folgen-kongenitaler-cytomegalievirus-cmv-infektionen-zeit-zu-handeln",
@@ -718,8 +777,9 @@
       "start": "2026-12-18",
       "end": "2026-12-18",
       "note": null,
-      "summary": "One-day event in Düsseldorf on hearing disorders and other consequences of congenital cytomegalovirus (CMV) infection.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/hoerstoerungen-und-weitere-folgen-kongenitaler-cytomegalievirus-cmv-infektionen-zeit-zu-handeln-1"
+      "summary": "One-day event on hearing disorders and other consequences of congenital cytomegalovirus (CMV) infections in Düsseldorf.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/hoerstoerungen-und-weitere-folgen-kongenitaler-cytomegalievirus-cmv-infektionen-zeit-zu-handeln-1",
+      "state": "Nordrhein"
     },
     {
       "id": "dgkj-fallseminare-p-diatrische-ern-hrungsmedizin-modul-3",
@@ -730,8 +790,9 @@
       "start": "2027-01-08",
       "end": "2027-01-09",
       "note": null,
-      "summary": "Two-day case seminar module 3 on pediatric nutritional medicine in Berlin.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/dgkj-fallseminare-paediatrische-ernaehrungsmedizin-modul-3"
+      "summary": "Two-day case seminar module 3 on paediatric nutrition medicine held in Berlin.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/dgkj-fallseminare-paediatrische-ernaehrungsmedizin-modul-3",
+      "state": "Berlin"
     },
     {
       "id": "pals-refresher-kurs-der-aha",
@@ -742,8 +803,9 @@
       "start": "2027-01-16",
       "end": "2027-01-16",
       "note": null,
-      "summary": "An AHA PALS refresher course in Hamburg for renewing paediatric advanced life support skills.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/pals-refresher-kurs-der-aha"
+      "summary": "One-day AHA PALS refresher course in Hamburg for paediatric advanced life support providers.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/pals-refresher-kurs-der-aha",
+      "state": "Hamburg"
     },
     {
       "id": "funktionelle-echokardiographie-f-r-neonatologen-innen-sowie-intensivmediziner-innen",
@@ -754,8 +816,9 @@
       "start": "2027-01-22",
       "end": "2027-01-23",
       "note": null,
-      "summary": "A two-day course in Aachen on functional echocardiography for neonatologists and intensive care physicians.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/funktionelle-echokardiographie-fuer-neonatologen-innen-sowie-intensivmediziner-innen-1"
+      "summary": "Two-day course in Aachen on functional echocardiography for neonatologists and intensive care physicians.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/funktionelle-echokardiographie-fuer-neonatologen-innen-sowie-intensivmediziner-innen-1",
+      "state": "Nordrhein"
     },
     {
       "id": "aha-pediatric-advanced-life-support-pals-provider-kurs",
@@ -766,8 +829,9 @@
       "start": "2027-01-23",
       "end": "2027-01-24",
       "note": null,
-      "summary": "A two-day AHA Pediatric Advanced Life Support provider course held in Würzburg.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/aha-pediatric-advanced-life-support-pals-provider-kurs-8"
+      "summary": "Two-day AHA Pediatric Advanced Life Support provider course in Würzburg.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/aha-pediatric-advanced-life-support-pals-provider-kurs-8",
+      "state": "Bayern"
     },
     {
       "id": "59-p-diatrischer-fortbildungskurs-obergurgl",
@@ -778,8 +842,9 @@
       "start": "2027-01-24",
       "end": "2027-01-29",
       "note": null,
-      "summary": "The 59th paediatric continuing education course held in Obergurgl, Austria, over six days.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/59-paediatrischer-fortbildungskurs-obergurgl"
+      "summary": "Six-day paediatric continuing education course held in Obergurgl, Austria.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/59-paediatrischer-fortbildungskurs-obergurgl",
+      "state": null
     },
     {
       "id": "35-fachtagung-chronisches-darmversagen-hpe-workshop-der-gpge-akademie",
@@ -790,8 +855,9 @@
       "start": "2027-01-28",
       "end": "2027-01-29",
       "note": null,
-      "summary": "A two-day scientific meeting with an HPE workshop on chronic intestinal failure, organised by the GPGE Akademie in Frankfurt am Main.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/35-fachtagung-chronisches-darmversagen-hpe-workshop-der-gpge-akademie"
+      "summary": "Two-day specialist meeting with HPE workshop on chronic intestinal failure, organised by the GPGE Akademie in Frankfurt am Main.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/35-fachtagung-chronisches-darmversagen-hpe-workshop-der-gpge-akademie",
+      "state": "Hessen"
     },
     {
       "id": "startklar-mit-der-dgkj-weiterbildungszeit-kinder-und-jugendmedizin",
@@ -802,8 +868,9 @@
       "start": "2027-02-02",
       "end": "2027-02-02",
       "note": null,
-      "summary": "An online event for those starting paediatric specialty training, offering guidance on the Weiterbildungszeit in child and adolescent medicine.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/startklar-mit-der-dgkj-weiterbildungszeit-kinder-und-jugendmedizin-8"
+      "summary": "Online DGKJ event on the training period in paediatrics and adolescent medicine for those starting specialist training.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/startklar-mit-der-dgkj-weiterbildungszeit-kinder-und-jugendmedizin-8",
+      "state": null
     },
     {
       "id": "interdisziplin-res-forum-jugendgesundheit-des-b-ndnisses-kjg",
@@ -814,8 +881,9 @@
       "start": "2027-02-05",
       "end": "2027-02-06",
       "note": null,
-      "summary": "An interdisciplinary forum on adolescent health organised by the Bündnis KJG, held in Essen over two days.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/interdisziplinaeres-forum-jugendgesundheit-des-buendnisses-kjg"
+      "summary": "Two-day interdisciplinary forum on adolescent health, organised by the Bündnis KJG, held in Essen.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/interdisziplinaeres-forum-jugendgesundheit-des-buendnisses-kjg",
+      "state": "Nordrhein"
     },
     {
       "id": "leitlinien-zertifikatskurs-fraktursonografie",
@@ -826,8 +894,9 @@
       "start": "2027-02-13",
       "end": "2027-02-13",
       "note": null,
-      "summary": "A certificate course on fracture sonography, held in Duisburg on 13 February 2027, linked to the DGKJ guidelines.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/leitlinien-zertifikatskurs-fraktursonografie"
+      "summary": "A certificate course on fracture sonography, part of the DGKJ guideline series, taking place in Duisburg on 13 February 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/leitlinien-zertifikatskurs-fraktursonografie",
+      "state": "Nordrhein"
     },
     {
       "id": "dgkj-fallseminare-p-diatrische-ern-hrungsmedizin-modul-4",
@@ -838,8 +907,9 @@
       "start": "2027-02-18",
       "end": "2027-02-19",
       "note": null,
-      "summary": "Module 4 of the DGKJ case seminar series on paediatric nutritional medicine, held online on 18–19 February 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/dgkj-fallseminare-paediatrische-ernaehrungsmedizin-modul-4"
+      "summary": "Module 4 of the DGKJ case seminars on paediatric nutritional medicine, held online on 18 and 19 February 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/dgkj-fallseminare-paediatrische-ernaehrungsmedizin-modul-4",
+      "state": null
     },
     {
       "id": "ekg-im-kindesalter",
@@ -851,7 +921,8 @@
       "end": "2027-02-24",
       "note": null,
       "summary": "An online course on electrocardiography in childhood, scheduled for 24 February 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/ekg-im-kindesalter-4"
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/ekg-im-kindesalter-4",
+      "state": null
     },
     {
       "id": "echokardiographie-sonographie-und-dopplersonographie-in-der-neonatologie-und-p-diatrischen-intensivmedizin",
@@ -862,8 +933,9 @@
       "start": "2027-02-25",
       "end": "2027-02-28",
       "note": null,
-      "summary": "A course on echocardiography, sonography and Doppler sonography in neonatology and paediatric intensive care, held in Landshut.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/echokardiographie-sonographie-und-dopplersonographie-in-der-neonatologie-und-paediatrischen-intensivmedizin-1"
+      "summary": "A course on echocardiography, sonography and Doppler sonography in neonatology and paediatric intensive care in Landshut, 25–28 February 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/echokardiographie-sonographie-und-dopplersonographie-in-der-neonatologie-und-paediatrischen-intensivmedizin-1",
+      "state": "Bayern"
     },
     {
       "id": "dgkj-seminar-repetitorium",
@@ -874,8 +946,9 @@
       "start": "2027-02-26",
       "end": "2027-02-27",
       "note": null,
-      "summary": "A DGKJ seminar-repetitorium review course held in Potsdam on 26–27 February 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/dgkj-seminar-repetitorium"
+      "summary": "A DGKJ review seminar in Potsdam on 26 and 27 February 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/dgkj-seminar-repetitorium",
+      "state": "Brandenburg"
     },
     {
       "id": "sonographie-der-s-uglingsh-fte-nach-graf-update-2027",
@@ -886,8 +959,9 @@
       "start": "2027-03-03",
       "end": "2027-03-03",
       "note": null,
-      "summary": "An update course on hip sonography in infants according to Graf, held in Herne on 3 March 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/sonographie-der-saeuglingshuefte-nach-graf-update-2027"
+      "summary": "An update course on sonography of the infant hip according to Graf in Herne on 3 March 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/sonographie-der-saeuglingshuefte-nach-graf-update-2027",
+      "state": "Westfalen-Lippe"
     },
     {
       "id": "2-n-tschauer-notfalltage-2027",
@@ -898,20 +972,22 @@
       "start": "2027-03-05",
       "end": "2027-03-07",
       "note": null,
-      "summary": "The second Nütschauer emergency days congress, held in Travenbrück from 5 to 7 March 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/2-nuetschauer-notfalltage-2027"
+      "summary": "The second Nütschauer emergency days congress in Travenbrück, taking place 5–7 March 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/2-nuetschauer-notfalltage-2027",
+      "state": null
     },
     {
       "id": "bvkj-assistent-innen-kongress-2027",
       "title": "BVKJ Assistent*innen-Kongress 2027",
-      "organizer": "BVKJ",
+      "organizer": "DGKJ event calendar",
       "city": "Nürnberg",
       "format": "Congress",
       "start": "2027-03-12",
       "end": "2027-03-14",
       "note": null,
-      "summary": "A BVKJ congress for paediatric assistants, held in Nürnberg from 12 to 14 March 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/bvkj-assistentinnen-kongress-2027"
+      "summary": "A congress for paediatric medical assistants in Nürnberg, taking place 12–14 March 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/bvkj-assistentinnen-kongress-2027",
+      "state": "Bayern"
     },
     {
       "id": "dgkj-fallseminare-p-diatrische-ern-hrungsmedizin-modul-5",
@@ -923,7 +999,8 @@
       "end": "2027-03-20",
       "note": null,
       "summary": "Module 5 of the DGKJ case seminars on paediatric nutritional medicine, held in Berlin from 19 to 20 March 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/dgkj-fallseminare-paediatrische-ernaehrungsmedizin-modul-5"
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/dgkj-fallseminare-paediatrische-ernaehrungsmedizin-modul-5",
+      "state": "Berlin"
     },
     {
       "id": "best-of-ipokrates-2027-munich",
@@ -934,8 +1011,9 @@
       "start": "2027-04-05",
       "end": "2027-04-07",
       "note": null,
-      "summary": "A Best of IPOKRaTES event held in Munich from 5 to 7 April 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/best-of-ipokrates-2027-munich"
+      "summary": "Best of IPOKRaTES 2027 congress in Munich from 5 to 7 April 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/best-of-ipokrates-2027-munich",
+      "state": "Bayern"
     },
     {
       "id": "42-jahrestagung-der-gpge-in-erlangen",
@@ -946,8 +1024,9 @@
       "start": "2027-04-07",
       "end": "2027-04-10",
       "note": null,
-      "summary": "The 42nd annual meeting of the GPGE, held in Erlangen from 7 to 10 April 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/42-jahrestagung-der-gpge-in-erlangen"
+      "summary": "42nd annual meeting of the GPGE, held in Erlangen from 7 to 10 April 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/42-jahrestagung-der-gpge-in-erlangen",
+      "state": "Bayern"
     },
     {
       "id": "12-dattelner-kinderschmerztage-6-l-nder-kongress-f-r-kinderschmerztherapie-und-p-diatrische-palliativversorgung",
@@ -958,8 +1037,9 @@
       "start": "2027-04-08",
       "end": "2027-04-10",
       "note": null,
-      "summary": "The 12th Datteln Child Pain Days, a six-country congress on paediatric pain therapy and palliative care, held in Recklinghausen from 8 to 10 April 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/12-dattelner-kinderschmerztage-6-laender-kongress-fuer-kinderschmerztherapie-und-paediatrische-palliativversorgung"
+      "summary": "12th Datteln children's pain days, a six-country congress on paediatric pain therapy and palliative care, listed in Recklinghausen from 8 to 10 April 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/12-dattelner-kinderschmerztage-6-laender-kongress-fuer-kinderschmerztherapie-und-paediatrische-palliativversorgung",
+      "state": "Westfalen-Lippe"
     },
     {
       "id": "fees-basiskurs-flexible-endoskopische-evaluation-des-schluckaktes",
@@ -970,8 +1050,9 @@
       "start": "2027-04-08",
       "end": "2027-04-10",
       "note": null,
-      "summary": "A basic course in flexible endoscopic evaluation of swallowing (FEES), held in Meerbusch from 8 to 10 April 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/fees-basiskurs-flexible-endoskopische-evaluation-des-schluckaktes"
+      "summary": "Basic course in flexible endoscopic evaluation of swallowing (FEES) held in Meerbusch from 8 to 10 April 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/fees-basiskurs-flexible-endoskopische-evaluation-des-schluckaktes",
+      "state": null
     },
     {
       "id": "3-kongress-fr-hkindliches-trauma-trotz-allem-wachsen",
@@ -983,7 +1064,8 @@
       "end": "2027-04-24",
       "note": null,
       "summary": "Third congress on early childhood trauma, held in Heidelberg from 21 to 24 April 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/3-kongress-fruehkindliches-trauma-trotz-allem-wachsen"
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/3-kongress-fruehkindliches-trauma-trotz-allem-wachsen",
+      "state": "Baden-Württemberg"
     },
     {
       "id": "8-d-sseldorfer-forum-f-r-kinderallergologie-und-kinderdermatologie",
@@ -994,20 +1076,22 @@
       "start": "2027-04-24",
       "end": "2027-04-24",
       "note": null,
-      "summary": "Eighth forum on paediatric allergology and paediatric dermatology, held in Düsseldorf on 24 April 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/8-duesseldorfer-forum-fuer-kinderallergologie-und-kinderdermatologie"
+      "summary": "Eighth Düsseldorf forum on paediatric allergology and paediatric dermatology, held on 24 April 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/8-duesseldorfer-forum-fuer-kinderallergologie-und-kinderdermatologie",
+      "state": "Nordrhein"
     },
     {
       "id": "european-academy-of-paediatrics-eap-congress-2027",
       "title": "European Academy of Paediatrics (EAP) Congress 2027",
       "organizer": "DGKJ event calendar",
-      "city": "Barcelona",
+      "city": "Barcelona (Spain)",
       "format": "Congress",
       "start": "2027-05-20",
       "end": "2027-05-23",
       "note": null,
-      "summary": "European Academy of Paediatrics congress held in Barcelona, Spain, from 20 to 23 May 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/european-academy-of-paediatrics-eap-congress-2027"
+      "summary": "European Academy of Paediatrics congress taking place in Barcelona from 20 to 23 May 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/european-academy-of-paediatrics-eap-congress-2027",
+      "state": null
     },
     {
       "id": "advanced-course-the-prechtl-general-movement-assessment",
@@ -1019,7 +1103,8 @@
       "end": "2027-05-27",
       "note": null,
       "summary": "Advanced course on the Prechtl General Movement Assessment, held in Berlin from 24 to 27 May 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/advanced-course-the-prechtl-general-movement-assessment"
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/advanced-course-the-prechtl-general-movement-assessment",
+      "state": "Berlin"
     },
     {
       "id": "basic-course-the-prechtl-general-movement-assessment",
@@ -1031,7 +1116,8 @@
       "end": "2027-05-27",
       "note": null,
       "summary": "Basic course on the Prechtl General Movement Assessment, held in Berlin from 24 to 27 May 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/basic-course-the-prechtl-general-movement-assessment-1"
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/basic-course-the-prechtl-general-movement-assessment-1",
+      "state": "Berlin"
     },
     {
       "id": "grundkurs-der-sonographie-des-zentralen-nervensystems-und-der-wirbels-ule",
@@ -1043,7 +1129,8 @@
       "end": "2027-05-29",
       "note": null,
       "summary": "Basic course on sonography of the central nervous system and spine, held in Hamburg from 28 to 29 May 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/grundkurs-der-sonographie-des-zentralen-nervensystems-und-der-wirbelsaeule"
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/grundkurs-der-sonographie-des-zentralen-nervensystems-und-der-wirbelsaeule",
+      "state": "Hamburg"
     },
     {
       "id": "45th-annual-meeting-of-the-european-society-of-paediatric-infectious-diseases-espid",
@@ -1055,7 +1142,8 @@
       "end": "2027-06-04",
       "note": null,
       "summary": "45th annual meeting of the European Society of Paediatric Infectious Diseases, held in Berlin from 31 May to 4 June 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/45th-annual-meeting-of-the-european-society-of-paediatric-infectious-diseases-espid"
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/45th-annual-meeting-of-the-european-society-of-paediatric-infectious-diseases-espid",
+      "state": "Berlin"
     },
     {
       "id": "gothenburg-2027-neonatal-hemodynamics-pocus-7th-international-course",
@@ -1067,7 +1155,8 @@
       "end": "2027-06-03",
       "note": null,
       "summary": "Seventh international course on neonatal hemodynamics and point-of-care ultrasound, held in Gothenburg from 31 May to 3 June 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/gothenburg-2027-neonatal-hemodynamics-pocus-7th-international-course"
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/gothenburg-2027-neonatal-hemodynamics-pocus-7th-international-course",
+      "state": null
     },
     {
       "id": "5-paediatric-haemostasis-summerschool-2027",
@@ -1078,8 +1167,9 @@
       "start": "2027-06-03",
       "end": "2027-06-05",
       "note": null,
-      "summary": "Fifth Paediatric Haemostasis SummerSchool held in Oberursel from 3 to 5 June 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/5-paediatric-haemostasis-summerschool-2027"
+      "summary": "Five-day paediatric haemostasis summer school held in Oberursel from 3 to 5 June 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/5-paediatric-haemostasis-summerschool-2027",
+      "state": null
     },
     {
       "id": "neugeborenenversorgung-praxisorientierter-kurs",
@@ -1090,20 +1180,22 @@
       "start": "2027-06-05",
       "end": "2027-06-05",
       "note": null,
-      "summary": "Practice-oriented course on neonatal care taking place in Würzburg on 5 June 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/neugeborenenversorgung-praxisorientierter-kurs"
+      "summary": "Practice-oriented course on neonatal care held in Würzburg on 5 June 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/neugeborenenversorgung-praxisorientierter-kurs",
+      "state": "Bayern"
     },
     {
       "id": "5th-congress-of-international-society-of-paediatric-respiratory-diseases-inspired-2027",
       "title": "5th Congress of International Society of Paediatric Respiratory Diseases (INSPiRED 2027)",
       "organizer": "DGKJ event calendar",
-      "city": "Rotterdam",
+      "city": "Rotterdam (NL)",
       "format": "Congress",
       "start": "2027-06-17",
       "end": "2027-06-21",
       "note": null,
-      "summary": "Fifth congress of the International Society of Paediatric Respiratory Diseases (INSPiRED) in Rotterdam, 17 to 21 June 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/5th-congress-of-international-society-of-paediatric-respiratory-diseases-inspired-2027"
+      "summary": "International congress on paediatric respiratory diseases held in Rotterdam, Netherlands, from 17 to 21 June 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/5th-congress-of-international-society-of-paediatric-respiratory-diseases-inspired-2027",
+      "state": null
     },
     {
       "id": "45-jahrestagung-der-gesellschaft-f-r-tropenp-diatrie-und-internationale-kindergesundheit-e-v-gtp",
@@ -1114,8 +1206,9 @@
       "start": "2027-06-18",
       "end": "2027-06-20",
       "note": null,
-      "summary": "45th annual meeting of the Gesellschaft für Tropenpädiatrie und Internationale Kindergesundheit (GTP) in Rostock, 18 to 20 June 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/45-jahrestagung-der-gesellschaft-fuer-tropenpaediatrie-und-internationale-kindergesundheit-ev-gtp"
+      "summary": "45th annual meeting of the German Society for Tropical Paediatrics and International Child Health in Rostock, 18 to 20 June 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/45-jahrestagung-der-gesellschaft-fuer-tropenpaediatrie-und-internationale-kindergesundheit-ev-gtp",
+      "state": "Mecklenburg-Vorpommern"
     },
     {
       "id": "pals-provider-kurs-aha",
@@ -1126,8 +1219,9 @@
       "start": "2027-06-19",
       "end": "2027-06-20",
       "note": null,
-      "summary": "Pediatric Advanced Life Support (PALS) Provider course in Hamburg, 19 to 20 June 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/pals-provider-kurs-aha"
+      "summary": "Two-day AHA Pediatric Advanced Life Support provider course held in Hamburg from 19 to 20 June 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/pals-provider-kurs-aha",
+      "state": "Hamburg"
     },
     {
       "id": "22nd-international-congress-of-the-european-society-for-child-and-adolescent-psychiatry",
@@ -1138,8 +1232,9 @@
       "start": "2027-06-24",
       "end": "2027-06-27",
       "note": null,
-      "summary": "22nd International Congress of the European Society for Child and Adolescent Psychiatry in Athens, 24 to 27 June 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/22nd-international-congress-of-the-european-society-for-child-and-adolescent-psychiatry"
+      "summary": "22nd international congress of the European Society for Child and Adolescent Psychiatry in Athens, 24 to 27 June 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/22nd-international-congress-of-the-european-society-for-child-and-adolescent-psychiatry",
+      "state": null
     },
     {
       "id": "pals-provider-kurs-der-aha",
@@ -1150,8 +1245,9 @@
       "start": "2027-09-11",
       "end": "2027-09-12",
       "note": null,
-      "summary": "Pediatric Advanced Life Support (PALS) Provider course of the AHA in Hamburg, 11 to 12 September 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/pals-provider-kurs-der-aha-2"
+      "summary": "Two-day AHA Pediatric Advanced Life Support provider course held in Hamburg from 11 to 12 September 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/pals-provider-kurs-der-aha-2",
+      "state": "Hamburg"
     },
     {
       "id": "zertifizierter-aufbaukurs-basale-stimulation-nach-prof-dr-fr-hlich-bs-2027",
@@ -1162,8 +1258,9 @@
       "start": "2027-09-13",
       "end": "2027-09-15",
       "note": null,
-      "summary": "Certified advanced course on Basale Stimulation according to Prof. Dr. Fröhlich in Datteln, 13 to 15 September 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/zertifizierter-aufbaukurs-basale-stimulation-nach-prof-dr-froehlichr-bs-2027"
+      "summary": "Certified advanced course on Basale Stimulation according to Prof. Dr. Fröhlich held in Datteln from 13 to 15 September 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/zertifizierter-aufbaukurs-basale-stimulation-nach-prof-dr-froehlichr-bs-2027",
+      "state": null
     },
     {
       "id": "online-zertifikatskurs-fraktursonografie-im-wachstumsalter",
@@ -1174,8 +1271,9 @@
       "start": "2027-09-17",
       "end": "2027-09-17",
       "note": null,
-      "summary": "Online certificate course on fracture sonography in childhood and adolescence taking place on 17 September 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/online-zertifikatskurs-fraktursonografie-im-wachstumsalter"
+      "summary": "Online certificate course on fracture sonography in childhood taking place on 17 September 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/online-zertifikatskurs-fraktursonografie-im-wachstumsalter",
+      "state": null
     },
     {
       "id": "online-kurs-aktualisierung-fachkunde-strahlenschutz-f-r-rzte-mta-mtra-mfa-und-op-personal",
@@ -1186,8 +1284,9 @@
       "start": "2027-09-18",
       "end": "2027-09-18",
       "note": null,
-      "summary": "Online refresher course updating radiation protection expertise (Fachkunde Strahlenschutz) for physicians, MTA/MTRA, MFA and operating room staff.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/online-kurs-aktualisierung-fachkunde-strahlenschutz-fuer-aerzte-mtamtra-mfa-und-op-personal-1"
+      "summary": "Online course updating radiation protection expertise (Fachkunde Strahlenschutz) for physicians, MTA/MTRA, MFA and OR staff, on 18 September 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/online-kurs-aktualisierung-fachkunde-strahlenschutz-fuer-aerzte-mtamtra-mfa-und-op-personal-1",
+      "state": null
     },
     {
       "id": "aha-pediatric-advanced-life-support-pals-refresher-kurs",
@@ -1198,8 +1297,9 @@
       "start": "2027-09-19",
       "end": "2027-09-19",
       "note": null,
-      "summary": "AHA Pediatric Advanced Life Support refresher course held in Würzburg.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/aha-pediatric-advanced-life-support-pals-refresher-kurs-2"
+      "summary": "AHA Pediatric Advanced Life Support refresher course held in Würzburg on 19 September 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/aha-pediatric-advanced-life-support-pals-refresher-kurs-2",
+      "state": "Bayern"
     },
     {
       "id": "lungensonographie-notfallsonographie-lus-feel-efast-workshop",
@@ -1210,8 +1310,9 @@
       "start": "2027-09-24",
       "end": "2027-09-25",
       "note": null,
-      "summary": "Two-day workshop in Hamburg on lung and emergency ultrasound (LUS, FEEL, eFAST).",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/lungensonographie-notfallsonographie-lusfeelefast-workshop-1"
+      "summary": "Two-day workshop in Hamburg on lung ultrasound and emergency sonography (LUS/FEEL/eFAST) from 24 to 25 September 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/lungensonographie-notfallsonographie-lusfeelefast-workshop-1",
+      "state": "Hamburg"
     },
     {
       "id": "online-intensivkurs-r-ntgenbefundung-frakturen-im-wachstumsalter",
@@ -1222,8 +1323,9 @@
       "start": "2027-10-09",
       "end": "2027-10-09",
       "note": null,
-      "summary": "Online intensive course on radiographic interpretation of fractures in growing children.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/online-intensivkurs-roentgenbefundung-frakturen-im-wachstumsalter"
+      "summary": "Online intensive course on radiographic assessment of fractures in childhood and adolescence, on 9 October 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/online-intensivkurs-roentgenbefundung-frakturen-im-wachstumsalter",
+      "state": null
     },
     {
       "id": "dgkj-jahrestagung-kongress-f-r-kinder-und-jugendmedizin-2027",
@@ -1234,8 +1336,9 @@
       "start": "2027-10-13",
       "end": "2027-10-16",
       "note": null,
-      "summary": "DGKJ annual meeting and congress for child and adolescent medicine held in Berlin.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/kongress-fuer-kinder-und-jugendmedizin"
+      "summary": "DGKJ annual congress on child and adolescent medicine held in Berlin from 13 to 16 October 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/kongress-fuer-kinder-und-jugendmedizin",
+      "state": "Berlin"
     },
     {
       "id": "praxisbegleitung-p-diatrie-f-r-kursleitungen-der-dgp-rezertifizierung-pk-2027",
@@ -1246,8 +1349,9 @@
       "start": "2027-10-17",
       "end": "2027-10-17",
       "note": null,
-      "summary": "Practice accompaniment for DGP course leaders in paediatrics for recertification, held in Datteln.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/praxisbegleitung-paediatrie-fuer-kursleitungen-der-dgp-rezertifizierung-pk-2027"
+      "summary": "Practice supervision course for DGP course leaders seeking recertification, held in Datteln on 17 October 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/praxisbegleitung-paediatrie-fuer-kursleitungen-der-dgp-rezertifizierung-pk-2027",
+      "state": null
     },
     {
       "id": "sterbende-kinder-jugendliche-und-ihre-familien-begleiten-eine-herausforderung-w-st-2027",
@@ -1258,8 +1362,9 @@
       "start": "2027-10-18",
       "end": "2027-10-19",
       "note": null,
-      "summary": "Two-day course in Datteln on accompanying dying children, adolescents and their families.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/sterbende-kinderjugendliche-und-ihre-familien-begleiten-eine-herausforderung-w-st-2027"
+      "summary": "Two-day course in Datteln on accompanying dying children, adolescents and their families, from 18 to 19 October 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/sterbende-kinderjugendliche-und-ihre-familien-begleiten-eine-herausforderung-w-st-2027",
+      "state": null
     },
     {
       "id": "funktionelle-echokardiographie-bei-neugeborenen-und-kindern",
@@ -1270,8 +1375,9 @@
       "start": "2027-11-05",
       "end": "2027-11-06",
       "note": null,
-      "summary": "Two-day course in Hamburg on functional echocardiography in neonates and children.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/funktionelle-echokardiographie-bei-neugeborenen-und-kindern-2"
+      "summary": "Course on functional echocardiography in neonates and children held in Hamburg from 5 to 6 November 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/funktionelle-echokardiographie-bei-neugeborenen-und-kindern-2",
+      "state": "Hamburg"
     },
     {
       "id": "pals-plus-kurs-mit-kindersimulation",
@@ -1282,8 +1388,9 @@
       "start": "2027-11-08",
       "end": "2027-11-10",
       "note": null,
-      "summary": "Three-day PALS plus course with paediatric simulation training held in Mannheim.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/palsplus-kurs-mit-kindersimulation"
+      "summary": "PALS plus course with child simulation held in Mannheim from 8 to 10 November 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/palsplus-kurs-mit-kindersimulation",
+      "state": "Baden-Württemberg"
     },
     {
       "id": "26-heiner-brunner-seminar-der-gpge",
@@ -1294,8 +1401,9 @@
       "start": "2027-11-10",
       "end": "2027-11-12",
       "note": null,
-      "summary": "The 26th Heiner-Brunner-Seminar of the GPGE takes place in Leipzig as a course for paediatricians.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/26-heiner-brunner-seminar-der-gpge"
+      "summary": "The 26th Heiner-Brunner-Seminar of the GPGE takes place in Leipzig from 10 to 12 November 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/26-heiner-brunner-seminar-der-gpge",
+      "state": "Sachsen"
     },
     {
       "id": "zertifikatskurs-fraktursonografie-im-wachstumsalter",
@@ -1306,8 +1414,9 @@
       "start": "2027-11-19",
       "end": "2027-11-19",
       "note": null,
-      "summary": "A certificate course on fracture sonography in growing children, held in Munich on 19 November 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/zertifikatskurs-fraktursonografie-im-wachstumsalter"
+      "summary": "A certificate course on fracture sonography in growing children is held in Munich on 19 November 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/zertifikatskurs-fraktursonografie-im-wachstumsalter",
+      "state": "Bayern"
     },
     {
       "id": "zusatzweiterbildung-spezielle-schmerztherapie-bei-kindern-und-jugendlichen-st-2027-28",
@@ -1318,8 +1427,9 @@
       "start": "2027-11-22",
       "end": "2027-11-26",
       "note": null,
-      "summary": "Additional training in special pain therapy for children and adolescents, ST 2027-28, held in Datteln.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/zusatzweiterbildung-spezielle-schmerztherapie-bei-kindern-und-jugendlichen-st-2027-28"
+      "summary": "An additional training course in special pain therapy for children and adolescents (ST 2027-28) takes place in Datteln from 22 to 26 November 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/zusatzweiterbildung-spezielle-schmerztherapie-bei-kindern-und-jugendlichen-st-2027-28",
+      "state": null
     },
     {
       "id": "ja-ped-2027-jahrestagung-der-deutschen-gesellschaft-f-r-p-diatrische-und-adoleszente-endokrinologie-und-diabetologie",
@@ -1330,8 +1440,9 @@
       "start": "2027-11-25",
       "end": "2027-11-27",
       "note": null,
-      "summary": "The 2027 annual meeting of the German Society for Paediatric and Adolescent Endocrinology and Diabetology is held in Garching.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/ja-ped-2027-jahrestagung-der-deutschen-gesellschaft-fuer-paediatrische-und-adoleszente-endokrinologie-und-diabetologie"
+      "summary": "The JA-PED 2027 annual meeting of the German Society for Paediatric and Adolescent Endocrinology and Diabetology takes place in Garching from 25 to 27 November 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/ja-ped-2027-jahrestagung-der-deutschen-gesellschaft-fuer-paediatrische-und-adoleszente-endokrinologie-und-diabetologie",
+      "state": null
     },
     {
       "id": "pals-heartcode-provider-aha",
@@ -1342,20 +1453,22 @@
       "start": "2027-12-11",
       "end": "2027-12-11",
       "note": null,
-      "summary": "An AHA Pediatric Advanced Life Support HeartCode Provider course held in Hamburg on 11 December 2027.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/pals-heartcode-provider-aha"
+      "summary": "A PALS HeartCode Provider course based on AHA standards takes place in Hamburg on 11 December 2027.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/pals-heartcode-provider-aha",
+      "state": "Hamburg"
     },
     {
       "id": "36-fachtagung-chronisches-darmversagen-der-gpge-akademie-hpe-workshop",
       "title": "36. Fachtagung chronisches Darmversagen der GPGE Akademie (HPE Workshop)",
       "organizer": "GPGE Akademie",
       "city": "Frankfurt am Main",
-      "format": "Course",
+      "format": "Congress",
       "start": "2028-01-27",
       "end": "2028-01-28",
       "note": null,
-      "summary": "The 36th conference on chronic intestinal failure, a HPE workshop of the GPGE Akademie, takes place in Frankfurt am Main.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/36-fachtagung-chronisches-darmversagen-hpe-workshop-der-gpge-akademie-hpe-workshop"
+      "summary": "The 36th GPGE Academy conference on chronic intestinal failure, including an HPE workshop, takes place in Frankfurt am Main from 27 to 28 January 2028.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/36-fachtagung-chronisches-darmversagen-hpe-workshop-der-gpge-akademie-hpe-workshop",
+      "state": "Hessen"
     },
     {
       "id": "43-jahrestagung-der-gesellschaft-f-r-p-diatrische-gastroenterologie-und-ern-hrung-e-v-in-berlin",
@@ -1366,8 +1479,9 @@
       "start": "2028-03-22",
       "end": "2028-03-25",
       "note": null,
-      "summary": "The 43rd annual meeting of the Society for Paediatric Gastroenterology and Nutrition takes place in Berlin.",
-      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/43-jahrestagung-der-gesellschaft-fuer-paediatrische-gastroenterologie-und-ernaehrung-ev-in-berlin"
+      "summary": "The 43rd annual meeting of the Society for Paediatric Gastroenterology and Nutrition takes place in Berlin from 22 to 25 March 2028.",
+      "url": "https://www.dgkj.de/termine/terminkalender/termin/ansicht/43-jahrestagung-der-gesellschaft-fuer-paediatrische-gastroenterologie-und-ernaehrung-ev-in-berlin",
+      "state": "Berlin"
     },
     {
       "id": "dgkj-online-repetitorium",
@@ -1377,9 +1491,10 @@
       "format": "Online",
       "start": null,
       "end": null,
-      "note": "Dates not stated on this page.",
-      "summary": "The online part of the popular DGKJ Repetitorium Pädiatrie, where the main lectures are delivered online.",
-      "url": "https://www.dgkj.de/termine/veranstaltungen-fortbildungen-der-dgkj/dgkj-repetitorien/dgkj-online-repetitorium"
+      "note": "No dates stated on this page.",
+      "summary": "Online main lectures of the DGKJ paediatrics review course, part of a split format with in-person seminars.",
+      "url": "https://www.dgkj.de/termine/veranstaltungen-fortbildungen-der-dgkj/dgkj-repetitorien/dgkj-online-repetitorium",
+      "state": null
     }
   ]
 }
