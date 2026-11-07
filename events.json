@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "events": [
+    {
+      "id": "ebp-eap-exam-2026",
+      "name": "EBP-EAP Exam 2026",
+      "organizer": "European Academy of Paediatrics",
+      "city": "",
+      "region": "Europe",
+      "start": "2026-11-17",
+      "end": "2026-11-17",
+      "timingNote": null,
+      "summary": "The European Board of Paediatrics – EAP online examination (EBP-EAP) is scheduled for 17 November 2026.",
+      "topics": [
+        "Neonatology",
+        "Infection & Vaccines",
+        "Neurodevelopment",
+        "Respiratory & Allergy",
+        "Nutrition & Endocrine",
+        "Mental Health",
+        "Heart & Oncology"
+      ],
+      "url": "https://eapaediatrics.eu/upcoming-exam/"
+    },
     {
       "id": "kongress-f-r-kinder-und-jugendmedizin-2026",
       "name": "Kongress für Kinder- und Jugendmedizin 2026",
@@ -10,7 +31,7 @@
       "start": "2026-11-18",
       "end": "2026-11-21",
       "timingNote": null,
-      "summary": "Annual congress of the German Society of Paediatrics and Adolescent Medicine.",
+      "summary": "The DGKJ congress 'Gemeinsam in die Zukunft' takes place 18–21 November 2026 at the Estrel in Berlin, covering general paediatrics and adolescent medicine.",
       "topics": [
         "Neonatology",
         "Infection & Vaccines",
@@ -23,19 +44,140 @@
       "url": "https://dgkj-kongress.de/"
     },
     {
+      "id": "young-investigator-forum",
+      "name": "Young Investigator Forum",
+      "organizer": "ESPGHAN",
+      "city": "Rome, Italy",
+      "region": "Europe",
+      "start": "2026-11-25",
+      "end": "2026-11-28",
+      "timingNote": null,
+      "summary": "ESPGHAN's Young Investigator Forum takes place in Rome, Italy, from 25 to 28 November 2026.",
+      "topics": [
+        "Neonatology",
+        "Infection & Vaccines",
+        "Neurodevelopment",
+        "Respiratory & Allergy",
+        "Nutrition & Endocrine",
+        "Mental Health",
+        "Heart & Oncology"
+      ],
+      "url": "https://www.espghan.org/knowledge-center/courses/2026/Young-Investigator-Forum"
+    },
+    {
+      "id": "eap-winter-meeting-2026",
+      "name": "EAP Winter Meeting 2026",
+      "organizer": "European Academy of Paediatrics",
+      "city": "Budapest",
+      "region": "Europe",
+      "start": "2026-12-04",
+      "end": "2026-12-05",
+      "timingNote": null,
+      "summary": "The EAP Winter Meeting 2026 is scheduled in Budapest for 4-5 December 2026.",
+      "topics": [
+        "Neonatology",
+        "Infection & Vaccines",
+        "Neurodevelopment",
+        "Respiratory & Allergy",
+        "Nutrition & Endocrine",
+        "Mental Health",
+        "Heart & Oncology"
+      ],
+      "url": "https://eapaediatrics.eu/eap-winter-meeting-2026-budapest-4-5-dec-2026/"
+    },
+    {
+      "id": "gi-winter-school",
+      "name": "GI Winter School",
+      "organizer": "ESPGHAN",
+      "city": "Zagreb, Croatia",
+      "region": "Europe",
+      "start": "2027-01-13",
+      "end": "2027-01-16",
+      "timingNote": null,
+      "summary": "ESPGHAN's GI Winter School is held in Zagreb, Croatia, from 13 to 16 January 2027.",
+      "topics": [
+        "Neonatology",
+        "Infection & Vaccines",
+        "Neurodevelopment",
+        "Respiratory & Allergy",
+        "Nutrition & Endocrine",
+        "Mental Health",
+        "Heart & Oncology"
+      ],
+      "url": "https://www.espghan.org/knowledge-center/courses/2027/GI-Summer-School"
+    },
+    {
+      "id": "monothematic-conference-on-wilson-s-disease-in-children",
+      "name": "Monothematic Conference on Wilson's disease in children",
+      "organizer": "ESPGHAN",
+      "city": "Cluj, Romania",
+      "region": "Europe",
+      "start": "2027-01-28",
+      "end": "2027-01-30",
+      "timingNote": null,
+      "summary": "ESPGHAN's monothematic conference on Wilson's disease in children takes place in Cluj, Romania, from 28 to 30 January 2027.",
+      "topics": [
+        "Nutrition & Endocrine",
+        "Neurodevelopment"
+      ],
+      "url": "https://www.espghan.org/knowledge-center/courses/2026/Monothematic-Conference-on-Wilson-s-disease-in-children"
+    },
+    {
       "id": "espid-2027",
-      "name": "ESPID 2027",
+      "name": "ESPID 2027 (45th Annual Meeting)",
       "organizer": "European Society for Paediatric Infectious Diseases",
-      "city": "Berlin & online",
+      "city": "Berlin",
       "region": "Europe",
       "start": "2027-05-31",
       "end": "2027-06-04",
       "timingNote": null,
-      "summary": "Annual meeting on infectious diseases and vaccination in children.",
+      "summary": "The 45th Annual Meeting of ESPID brings together paediatric infectious disease experts in Berlin and online, covering research, treatment, and prevention of infections in children.",
       "topics": [
         "Infection & Vaccines"
       ],
       "url": "https://espidmeeting.org/"
+    },
+    {
+      "id": "espghan-annual-meeting-2027",
+      "name": "ESPGHAN Annual Meeting 2027",
+      "organizer": "ESPGHAN",
+      "city": "Lisbon, Portugal",
+      "region": "Europe",
+      "start": null,
+      "end": null,
+      "timingNote": "Scheduled for 2027 in Lisbon; exact dates not stated on the page.",
+      "summary": "ESPGHAN's next Annual Meeting is planned for Lisbon in 2027, following the 58th Annual Meeting.",
+      "topics": [
+        "Neonatology",
+        "Infection & Vaccines",
+        "Neurodevelopment",
+        "Respiratory & Allergy",
+        "Nutrition & Endocrine",
+        "Mental Health",
+        "Heart & Oncology"
+      ],
+      "url": "https://espghancongress.org/"
+    },
+    {
+      "id": "pas-2027-meeting",
+      "name": "PAS 2027 Meeting",
+      "organizer": "Pediatric Academic Societies",
+      "city": "",
+      "region": "Americas",
+      "start": null,
+      "end": null,
+      "timingNote": "Exact dates not stated on the page.",
+      "summary": "Pediatric Academic Societies' 2027 meeting page lists the program, abstracts, workshops, and key dates, but the page text does not state exact dates or location.",
+      "topics": [
+        "Neonatology",
+        "Infection & Vaccines",
+        "Neurodevelopment",
+        "Respiratory & Allergy",
+        "Nutrition & Endocrine",
+        "Mental Health",
+        "Heart & Oncology"
+      ],
+      "url": "https://www.pas-meeting.org/2027-meeting/"
     }
   ]
 }
