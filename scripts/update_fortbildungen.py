@@ -13,6 +13,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from geo import state_for  # noqa: E402
 from update_events import fetch_text, parse_json_array, parse_day, host_ok, slugify  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -74,6 +75,7 @@ def validate(it, allowed, today):
             "note": note,
             "summary": str(it.get("summary") or "")[:300],
             "url": url,
+            "state": state_for(str(it.get("city") or "")),
         }
     except (KeyError, ValueError, TypeError):
         return None
@@ -101,6 +103,8 @@ def merge(existing, fresh, today, log):
             log.append(f"EXPIRED {e['title']}")
         else:
             kept.append(e)
+    for e in kept:  # backfill / refresh the Land from the city, deterministically
+        e["state"] = state_for(e.get("city", ""))
     kept.sort(key=lambda e: (e["start"] is None, e["start"] or "", e["title"]))
     return kept
 
