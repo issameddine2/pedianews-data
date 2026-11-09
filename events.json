@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-09",
   "events": [
     {
       "id": "ebp-eap-exam-2026",
@@ -31,7 +31,7 @@
       "start": "2026-11-18",
       "end": "2026-11-21",
       "timingNote": null,
-      "summary": "The 2026 Congress for Child and Adolescent Medicine, themed 'Gemeinsam in die Zukunft', takes place at the Estrel in Berlin from 18 to 21 November 2026.",
+      "summary": "Congress for Child and Adolescent Medicine 2026 under the theme 'Gemeinsam in die Zukunft', held at the Estrel in Berlin.",
       "topics": [
         "Neonatology",
         "Infection & Vaccines",
@@ -47,20 +47,14 @@
       "id": "young-investigator-forum",
       "name": "Young Investigator Forum",
       "organizer": "ESPGHAN",
-      "city": "Rome, Italy",
+      "city": "Rome",
       "region": "Europe",
       "start": "2026-11-25",
       "end": "2026-11-28",
       "timingNote": null,
-      "summary": "ESPGHAN's Young Investigator Forum takes place in Rome, Italy, from 25 to 28 November 2026.",
+      "summary": "ESPGHAN Young Investigator Forum held in Rome, Italy, from 25 to 28 November 2026.",
       "topics": [
-        "Neonatology",
-        "Infection & Vaccines",
-        "Neurodevelopment",
-        "Respiratory & Allergy",
-        "Nutrition & Endocrine",
-        "Mental Health",
-        "Heart & Oncology"
+        "Nutrition & Endocrine"
       ],
       "url": "https://www.espghan.org/knowledge-center/courses/2026/Young-Investigator-Forum"
     },
@@ -73,7 +67,7 @@
       "start": "2026-12-04",
       "end": "2026-12-05",
       "timingNote": null,
-      "summary": "The EAP Winter Meeting 2026 takes place in Budapest on 4–5 December 2026.",
+      "summary": "The EAP Winter Meeting 2026 takes place in Budapest, Hungary, on 4-5 December 2026, as listed among upcoming EAP events.",
       "topics": [
         "Neonatology",
         "Infection & Vaccines",
@@ -89,33 +83,27 @@
       "id": "gi-winter-school",
       "name": "GI Winter School",
       "organizer": "ESPGHAN",
-      "city": "Zagreb, Croatia",
+      "city": "Zagreb",
       "region": "Europe",
       "start": "2027-01-13",
       "end": "2027-01-16",
       "timingNote": null,
-      "summary": "ESPGHAN's GI Winter School is scheduled in Zagreb, Croatia, from 13 to 16 January 2027.",
+      "summary": "ESPGHAN GI Winter School takes place in Zagreb, Croatia, from 13 to 16 January 2027.",
       "topics": [
-        "Neonatology",
-        "Infection & Vaccines",
-        "Neurodevelopment",
-        "Respiratory & Allergy",
-        "Nutrition & Endocrine",
-        "Mental Health",
-        "Heart & Oncology"
+        "Nutrition & Endocrine"
       ],
       "url": "https://www.espghan.org/knowledge-center/courses/2027/GI-Summer-School"
     },
     {
       "id": "monothematic-conference-on-wilson-s-disease-in-children",
-      "name": "Monothematic Conference on Wilson’s disease in children",
+      "name": "Monothematic Conference on Wilson's Disease in Children",
       "organizer": "ESPGHAN",
-      "city": "Cluj, Romania",
+      "city": "Cluj",
       "region": "Europe",
       "start": "2027-01-28",
       "end": "2027-01-30",
       "timingNote": null,
-      "summary": "ESPGHAN's monothematic conference on Wilson’s disease in children is held in Cluj, Romania, from 28 to 30 January 2027.",
+      "summary": "ESPGHAN monothematic conference on Wilson's disease in children takes place in Cluj, Romania, from 28 to 30 January 2027.",
       "topics": [
         "Nutrition & Endocrine"
       ],
@@ -130,7 +118,7 @@
       "start": "2027-05-31",
       "end": "2027-06-04",
       "timingNote": null,
-      "summary": "The 45th Annual ESPID Meeting, held in Berlin and online, focuses on research, treatment and prevention of paediatric infectious diseases.",
+      "summary": "The 45th Annual Meeting of the European Society for Paediatric Infectious Diseases will take place in Berlin and online, bringing together experts on paediatric infections.",
       "topics": [
         "Infection & Vaccines"
       ],
@@ -140,12 +128,12 @@
       "id": "espghan-annual-meeting-2027",
       "name": "ESPGHAN Annual Meeting 2027",
       "organizer": "ESPGHAN",
-      "city": "Lisbon, Portugal",
+      "city": "Lisbon",
       "region": "Europe",
       "start": null,
       "end": null,
-      "timingNote": "2027; exact dates not stated on page",
-      "summary": "The page states that the ESPGHAN annual meeting will be held in Lisbon in 2027, with no exact dates given.",
+      "timingNote": "Year only (2027); exact dates not stated on page",
+      "summary": "ESPGHAN Annual Meeting will be held in Lisbon in 2027, with exact dates not stated on the page.",
       "topics": [
         "Neonatology",
         "Infection & Vaccines",
@@ -166,7 +154,7 @@
       "start": null,
       "end": null,
       "timingNote": "Exact dates not stated on the page.",
-      "summary": "Pediatric Academic Societies' 2027 meeting page lists the program, abstracts, workshops, ancillary events, special interest groups, and key dates.",
+      "summary": "Official page for the PAS 2027 Meeting, listing program, abstracts, workshops, and key dates, but exact dates are not given here.",
       "topics": [
         "Neonatology",
         "Infection & Vaccines",
