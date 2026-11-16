@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-16",
   "events": [
     {
       "id": "ebp-eap-exam-2026",
@@ -10,7 +10,7 @@
       "start": "2026-11-17",
       "end": "2026-11-17",
       "timingNote": null,
-      "summary": "The European Board of Paediatrics – EAP online examination (EBP-EAP) is scheduled for 17 November 2026.",
+      "summary": "The European Board of Paediatrics – EAP online examination (EBP-EAP) assesses knowledge in essential paediatric training, held on 17 November 2026.",
       "topics": [
         "Neonatology",
         "Infection & Vaccines",
@@ -31,7 +31,7 @@
       "start": "2026-11-18",
       "end": "2026-11-21",
       "timingNote": null,
-      "summary": "Congress for Child and Adolescent Medicine 2026 under the theme 'Gemeinsam in die Zukunft', held at the Estrel in Berlin.",
+      "summary": "The 2026 Congress for Child and Adolescent Medicine takes place at the Estrel in Berlin under the motto \"Gemeinsam in die Zukunft\".",
       "topics": [
         "Neonatology",
         "Infection & Vaccines",
@@ -67,7 +67,7 @@
       "start": "2026-12-04",
       "end": "2026-12-05",
       "timingNote": null,
-      "summary": "The EAP Winter Meeting 2026 takes place in Budapest, Hungary, on 4-5 December 2026, as listed among upcoming EAP events.",
+      "summary": "The EAP Winter Meeting 2026 takes place in Budapest on 4–5 December 2026.",
       "topics": [
         "Neonatology",
         "Infection & Vaccines",
@@ -88,7 +88,7 @@
       "start": "2027-01-13",
       "end": "2027-01-16",
       "timingNote": null,
-      "summary": "ESPGHAN GI Winter School takes place in Zagreb, Croatia, from 13 to 16 January 2027.",
+      "summary": "ESPGHAN GI Winter School held in Zagreb, Croatia, from 13 to 16 January 2027.",
       "topics": [
         "Nutrition & Endocrine"
       ],
@@ -96,14 +96,14 @@
     },
     {
       "id": "monothematic-conference-on-wilson-s-disease-in-children",
-      "name": "Monothematic Conference on Wilson's Disease in Children",
+      "name": "Monothematic Conference on Wilson's disease in children",
       "organizer": "ESPGHAN",
       "city": "Cluj",
       "region": "Europe",
       "start": "2027-01-28",
       "end": "2027-01-30",
       "timingNote": null,
-      "summary": "ESPGHAN monothematic conference on Wilson's disease in children takes place in Cluj, Romania, from 28 to 30 January 2027.",
+      "summary": "ESPGHAN monothematic conference on Wilson's disease in children held in Cluj, Romania, from 28 to 30 January 2027.",
       "topics": [
         "Nutrition & Endocrine"
       ],
@@ -118,11 +118,17 @@
       "start": "2027-05-31",
       "end": "2027-06-04",
       "timingNote": null,
-      "summary": "The 45th Annual Meeting of the European Society for Paediatric Infectious Diseases will take place in Berlin and online, bringing together experts on paediatric infections.",
+      "summary": "45th Annual Meeting of the European Society for Paediatric Infectious Diseases, held in Berlin and online, 31 May to 4 June 2027.",
       "topics": [
-        "Infection & Vaccines"
+        "Neonatology",
+        "Infection & Vaccines",
+        "Neurodevelopment",
+        "Respiratory & Allergy",
+        "Nutrition & Endocrine",
+        "Mental Health",
+        "Heart & Oncology"
       ],
-      "url": "https://espidmeeting.org/"
+      "url": "https://espidmeeting.org/welcome-to-espid-2027/"
     },
     {
       "id": "espghan-annual-meeting-2027",
@@ -132,8 +138,8 @@
       "region": "Europe",
       "start": null,
       "end": null,
-      "timingNote": "Year only (2027); exact dates not stated on page",
-      "summary": "ESPGHAN Annual Meeting will be held in Lisbon in 2027, with exact dates not stated on the page.",
+      "timingNote": "Dates not stated; the meeting is planned for Lisbon in 2027.",
+      "summary": "The ESPGHAN 58th Annual Meeting concluded, with the next meeting planned for Lisbon in 2027.",
       "topics": [
         "Neonatology",
         "Infection & Vaccines",
@@ -153,8 +159,8 @@
       "region": "Americas",
       "start": null,
       "end": null,
-      "timingNote": "Exact dates not stated on the page.",
-      "summary": "Official page for the PAS 2027 Meeting, listing program, abstracts, workshops, and key dates, but exact dates are not given here.",
+      "timingNote": "Exact dates not stated on the page",
+      "summary": "Pediatric Academic Societies' 2027 meeting page lists registration, program, abstracts, workshops and CME, but dates and location are not stated.",
       "topics": [
         "Neonatology",
         "Infection & Vaccines",
