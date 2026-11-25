@@ -30,7 +30,7 @@ Today: {today}
 Return ONLY a JSON array, one object per upcoming congress, course, webinar or exam listed on the page, with exactly these keys:
 id (lowercase-hyphen slug of the title), title, organizer, city (string, "" if online or unknown),
 format (one of {formats}), start (YYYY-MM-DD or null), end (YYYY-MM-DD or null),
-note (string or null; only when there are no exact dates), summary (one factual English sentence, max 30 words),
+note (string or null, in German; only when there are no exact dates), summary (one factual sentence in GERMAN, max 30 words),
 url (absolute URL of that offer taken from the page; the page URL if there is no specific link).
 
 Rules: use only facts stated on the page. Never guess dates; if unclear set start and end to null.
@@ -63,7 +63,7 @@ def validate(it, allowed, today):
             if end < today or start > today + dt.timedelta(days=3 * 365):
                 return None
         else:
-            note = str(it.get("note") or "See website for dates")[:120]
+            note = str(it.get("note") or "Termine siehe Webseite")[:120]
         return {
             "id": slugify(title),
             "title": title,
