@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-25",
   "events": [
     {
       "id": "ebp-eap-exam-2026",
@@ -52,10 +52,8 @@
       "start": "2026-11-25",
       "end": "2026-11-28",
       "timingNote": null,
-      "summary": "ESPGHAN Young Investigator Forum takes place in Rome, Italy, from 25 to 28 November 2026.",
-      "topics": [
-        "Nutrition & Endocrine"
-      ],
+      "summary": "ESPGHAN Young Investigator Forum held in Rome, Italy, from 25 to 28 November 2026 as part of its educational events.",
+      "topics": [],
       "url": "https://www.espghan.org/knowledge-center/courses/2026/Young-Investigator-Forum"
     },
     {
@@ -88,25 +86,21 @@
       "start": "2027-01-13",
       "end": "2027-01-16",
       "timingNote": null,
-      "summary": "ESPGHAN GI Winter School is held in Zagreb, Croatia, from 13 to 16 January 2027.",
-      "topics": [
-        "Nutrition & Endocrine"
-      ],
+      "summary": "ESPGHAN GI Winter School taking place in Zagreb, Croatia, from 13 to 16 January 2027.",
+      "topics": [],
       "url": "https://www.espghan.org/knowledge-center/courses/2027/GI-Summer-School"
     },
     {
       "id": "monothematic-conference-on-wilson-s-disease-in-children",
-      "name": "Monothematic Conference on Wilson’s disease in children",
+      "name": "Monothematic Conference on Wilson's disease in children",
       "organizer": "ESPGHAN",
       "city": "Cluj",
       "region": "Europe",
       "start": "2027-01-28",
       "end": "2027-01-30",
       "timingNote": null,
-      "summary": "ESPGHAN monothematic conference on Wilson’s disease in children takes place in Cluj, Romania, from 28 to 30 January 2027.",
-      "topics": [
-        "Nutrition & Endocrine"
-      ],
+      "summary": "ESPGHAN monothematic conference on Wilson's disease in children, held in Cluj, Romania, from 28 to 30 January 2027.",
+      "topics": [],
       "url": "https://www.espghan.org/knowledge-center/courses/2026/Monothematic-Conference-on-Wilson-s-disease-in-children"
     },
     {
@@ -118,7 +112,7 @@
       "start": "2027-05-31",
       "end": "2027-06-04",
       "timingNote": null,
-      "summary": "The 45th Annual Meeting of the European Society for Paediatric Infectious Diseases takes place in Berlin and online, with abstract submission open.",
+      "summary": "The 45th Annual Meeting of the European Society for Paediatric Infectious Diseases will be held in Berlin and online.",
       "topics": [
         "Infection & Vaccines"
       ],
@@ -154,7 +148,7 @@
       "start": null,
       "end": null,
       "timingNote": "Exact dates not stated on the page.",
-      "summary": "Pediatric Academic Societies' 2027 meeting page lists registration, program, abstracts, workshops and CME, but this page gives no dates or location.",
+      "summary": "The Pediatric Academic Societies 2027 meeting page provides links to registration, program, abstracts, workshops, CME, and hotel and travel information.",
       "topics": [
         "Neonatology",
         "Infection & Vaccines",
